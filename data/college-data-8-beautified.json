@@ -1,0 +1,796 @@
+{
+  "Warner Pacific College - Adult Degree ProgramThis college has been claimed by the college or a college representative.": {
+    "niche_report_card": {
+      "Academics": "C",
+      "Value": "B-",
+      "Diversity": "B+",
+      "Campus": "NG",
+      "Athletics": "NG",
+      "Party Scene": "NG",
+      "Professors": "C-",
+      "Location": "A",
+      "Dorms": "NG",
+      "Campus Food": "NG",
+      "Student Life": "A+",
+      "Safety": "NG"
+    },
+    "after_college": {
+      "median_earning_6_years": "$41,000",
+      "graduation_rate": "57%",
+      "employment_rate": "90%"
+    },
+    "students": {
+      "full_time": "415",
+      "part_time": "0",
+      "over_25": "92%",
+      "pell_grant": "36%",
+      "varsity_athletes": ""
+    },
+    "popular_majors": [
+      "Business",
+      "Human Development",
+      "Healthcare Management",
+      "Accounting"
+    ],
+    "cost": {
+      "net_price": "$18,633",
+      "average_aid": "$5,607",
+      "percentage_aid": "36%"
+    },
+    "admissions": {
+      "statistics": {
+        "acceptance_rate": "100%",
+        "early_decision_acceptance_rate": "",
+        "total_applicants": "",
+        "sat_range": "",
+        "sat_reading": "",
+        "sat_math": "",
+        "sat_submission_percentage": "",
+        "act_range": "",
+        "act_english": "",
+        "act_math": "",
+        "act_writing": "",
+        "act_submission_percentage": ""
+      },
+      "deadlines": {
+        "application_deadline": "",
+        "early_decision_deadline": "",
+        "early_action_deadline": "",
+        "offers_early_decision": "",
+        "offers_early_action": "",
+        "application_fee": "$50",
+        "application_website": "warnerpacific.edu/admissions/adult-degree-program/apply-to-warner-pacific-college",
+        "accepts_common_app": "",
+        "accepts_coalition_app": "No"
+      },
+      "requirements": {
+        "gpa": "—",
+        "rank": "—",
+        "transcript": "—",
+        "college_prep_coures": "—",
+        "sat/act": "—",
+        "recommendations": "—"
+      }
+    }
+  },
+  "Florida Memorial University": {
+    "niche_report_card": {
+      "Academics": "B-",
+      "Value": "C+",
+      "Diversity": "A-",
+      "Campus": "C-",
+      "Athletics": "B-",
+      "Party Scene": "A-",
+      "Professors": "B",
+      "Location": "C",
+      "Dorms": "C",
+      "Campus Food": "C+",
+      "Student Life": "C",
+      "Safety": "B"
+    },
+    "after_college": {
+      "median_earning_6_years": "$27,600",
+      "graduation_rate": "38%",
+      "employment_rate": "90%"
+    },
+    "students": {
+      "full_time": "1,129",
+      "part_time": "44",
+      "over_25": "9%",
+      "pell_grant": "70%",
+      "varsity_athletes": "10%"
+    },
+    "popular_majors": [
+      "Criminal Justice and Law Enforcement Administration",
+      "Accounting",
+      "Psychology",
+      "Public Relations",
+      "Business",
+      "Aeronautics and Aviation Technology",
+      "Biology",
+      "Music",
+      "Marketing",
+      "Elementary Education"
+    ],
+    "cost": {
+      "net_price": "$16,280",
+      "average_aid": "$10,479",
+      "percentage_aid": "91%"
+    },
+    "admissions": {
+      "statistics": {
+        "acceptance_rate": "27%",
+        "early_decision_acceptance_rate": "",
+        "total_applicants": "6,802",
+        "sat_range": "",
+        "sat_reading": "",
+        "sat_math": "",
+        "sat_submission_percentage": "",
+        "act_range": "",
+        "act_english": "",
+        "act_math": "",
+        "act_writing": "",
+        "act_submission_percentage": ""
+      },
+      "deadlines": {
+        "application_deadline": "",
+        "early_decision_deadline": "",
+        "early_action_deadline": "",
+        "offers_early_decision": "",
+        "offers_early_action": "",
+        "application_fee": "$25",
+        "application_website": "selfservice.fmuniv.edu/selfservice/admissions/applicationselectenabledform.aspx",
+        "accepts_common_app": "",
+        "accepts_coalition_app": "No"
+      },
+      "requirements": {
+        "gpa": "Required",
+        "rank": "Neither required nor recommended",
+        "transcript": "Required",
+        "college_prep_coures": "Recommended",
+        "sat/act": "Recommended",
+        "recommendations": "Required"
+      }
+    }
+  },
+  "Lees-McRae College": {
+    "niche_report_card": {
+      "Academics": "C+",
+      "Value": "C+",
+      "Diversity": "A-",
+      "Campus": "C+",
+      "Athletics": "B",
+      "Party Scene": "C",
+      "Professors": "C+",
+      "Location": "B",
+      "Dorms": "C-",
+      "Campus Food": "C-",
+      "Student Life": "B-",
+      "Safety": "A-"
+    },
+    "after_college": {
+      "median_earning_6_years": "$33,200",
+      "graduation_rate": "32%",
+      "employment_rate": "90%"
+    },
+    "students": {
+      "full_time": "891",
+      "part_time": "30",
+      "over_25": "21%",
+      "pell_grant": "43%",
+      "varsity_athletes": "31%"
+    },
+    "popular_majors": [
+      "Nursing",
+      "Criminal Justice and Law Enforcement Administration",
+      "Elementary Education",
+      "Zoology and Entomology",
+      "Business",
+      "Sport and Fitness Management",
+      "Human Services",
+      "Biology",
+      "Psychology",
+      "Communications"
+    ],
+    "cost": {
+      "net_price": "$21,832",
+      "average_aid": "$19,544",
+      "percentage_aid": "100%"
+    },
+    "admissions": {
+      "statistics": {
+        "acceptance_rate": "71%",
+        "early_decision_acceptance_rate": "",
+        "total_applicants": "1,190",
+        "sat_range": "",
+        "sat_reading": "420-520",
+        "sat_math": "420-530",
+        "sat_submission_percentage": "",
+        "act_range": "18-22",
+        "act_english": "15-22",
+        "act_math": "17-23",
+        "act_writing": "",
+        "act_submission_percentage": ""
+      },
+      "deadlines": {
+        "application_deadline": "",
+        "early_decision_deadline": "",
+        "early_action_deadline": "",
+        "offers_early_decision": "",
+        "offers_early_action": "",
+        "application_fee": "$35",
+        "application_website": "lmc.edu/admissions/application.htm",
+        "accepts_common_app": "",
+        "accepts_coalition_app": "No"
+      },
+      "requirements": {
+        "gpa": "Required",
+        "rank": "Neither required nor recommended",
+        "transcript": "Required",
+        "college_prep_coures": "Neither required nor recommended",
+        "sat/act": "Recommended",
+        "recommendations": "Neither required nor recommended"
+      }
+    }
+  },
+  "Florida Gateway College": {
+    "niche_report_card": {
+      "Academics": "C",
+      "Value": "B-",
+      "Diversity": "B-",
+      "Campus": "B+",
+      "Athletics": "NG",
+      "Party Scene": "C+",
+      "Professors": "C+",
+      "Location": "B-",
+      "Dorms": "NG",
+      "Campus Food": "NG",
+      "Student Life": "A-",
+      "Safety": "A"
+    },
+    "after_college": {
+      "median_earning_6_years": "$29,500",
+      "graduation_rate": "41%",
+      "employment_rate": "85%"
+    },
+    "students": {
+      "full_time": "992",
+      "part_time": "2,300",
+      "over_25": "28%",
+      "pell_grant": "44%",
+      "varsity_athletes": "2%"
+    },
+    "popular_majors": [
+      "Liberal Arts and Humanities",
+      "Nursing",
+      "Emergency Medical Technician (EMT Paramedic)",
+      "Criminal Justice and Law Enforcement Administration",
+      "Police and Criminal Science",
+      "Cosmetology",
+      "Licensed Practical Nurse Training (LPN)",
+      "Child Care Provider",
+      "Physical Therapy Technician",
+      "Environmental Science"
+    ],
+    "cost": {
+      "net_price": "$4,942",
+      "average_aid": "$4,020",
+      "percentage_aid": "78%"
+    },
+    "admissions": {
+      "statistics": {
+        "acceptance_rate": "100%",
+        "early_decision_acceptance_rate": "",
+        "total_applicants": "",
+        "sat_range": "",
+        "sat_reading": "",
+        "sat_math": "",
+        "sat_submission_percentage": "",
+        "act_range": "",
+        "act_english": "",
+        "act_math": "",
+        "act_writing": "",
+        "act_submission_percentage": ""
+      },
+      "deadlines": {
+        "application_deadline": "",
+        "early_decision_deadline": "",
+        "early_action_deadline": "",
+        "offers_early_decision": "",
+        "offers_early_action": "",
+        "application_fee": "$0",
+        "application_website": "my.fgc.edu/prod/twbkwbis.p_genmenu?name=homepage",
+        "accepts_common_app": "",
+        "accepts_coalition_app": "No"
+      },
+      "requirements": {
+        "gpa": "—",
+        "rank": "—",
+        "transcript": "—",
+        "college_prep_coures": "—",
+        "sat/act": "—",
+        "recommendations": "—"
+      }
+    }
+  },
+  "Ohio State University - Newark": {
+    "niche_report_card": {
+      "Academics": "C",
+      "Value": "B",
+      "Diversity": "B",
+      "Campus": "B-",
+      "Athletics": "NG",
+      "Party Scene": "C",
+      "Professors": "C+",
+      "Location": "B-",
+      "Dorms": "B-",
+      "Campus Food": "B",
+      "Student Life": "B-",
+      "Safety": "A+"
+    },
+    "after_college": {
+      "median_earning_6_years": "$46,100",
+      "graduation_rate": "38%",
+      "employment_rate": "94%"
+    },
+    "students": {
+      "full_time": "2,218",
+      "part_time": "389",
+      "over_25": "5%",
+      "pell_grant": "41%",
+      "varsity_athletes": ""
+    },
+    "popular_majors": [
+      "Liberal Arts and Humanities",
+      "Social Work and Youth Services",
+      "Psychology",
+      "Elementary and Middle School Administration",
+      "Elementary Education",
+      "English",
+      "Middle School Education",
+      "Business",
+      "History",
+      "Nursing"
+    ],
+    "cost": {
+      "net_price": "$14,656",
+      "average_aid": "$4,696",
+      "percentage_aid": "79%"
+    },
+    "admissions": {
+      "statistics": {
+        "acceptance_rate": "100%",
+        "early_decision_acceptance_rate": "",
+        "total_applicants": "",
+        "sat_range": "",
+        "sat_reading": "",
+        "sat_math": "",
+        "sat_submission_percentage": "",
+        "act_range": "",
+        "act_english": "",
+        "act_math": "",
+        "act_writing": "",
+        "act_submission_percentage": ""
+      },
+      "deadlines": {
+        "application_deadline": "",
+        "early_decision_deadline": "",
+        "early_action_deadline": "",
+        "offers_early_decision": "",
+        "offers_early_action": "",
+        "application_fee": "$60",
+        "application_website": "undergrad.osu.edu/apply",
+        "accepts_common_app": "",
+        "accepts_coalition_app": "No"
+      },
+      "requirements": {
+        "gpa": "—",
+        "rank": "—",
+        "transcript": "—",
+        "college_prep_coures": "—",
+        "sat/act": "—",
+        "recommendations": "—"
+      }
+    }
+  },
+  "CUNY College of Staten Island": {
+    "niche_report_card": {
+      "Academics": "C+",
+      "Value": "B",
+      "Diversity": "A-",
+      "Campus": "C+",
+      "Athletics": "C",
+      "Party Scene": "C+",
+      "Professors": "B-",
+      "Location": "B+",
+      "Dorms": "NG",
+      "Campus Food": "C+",
+      "Student Life": "C-",
+      "Safety": "B+"
+    },
+    "after_college": {
+      "median_earning_6_years": "$41,500",
+      "graduation_rate": "30%",
+      "employment_rate": "87%"
+    },
+    "students": {
+      "full_time": "9,710",
+      "part_time": "2,799",
+      "over_25": "12%",
+      "pell_grant": "61%",
+      "varsity_athletes": "2%"
+    },
+    "popular_majors": [
+      "Liberal Arts and Humanities",
+      "Psychology",
+      "Business",
+      "Nursing",
+      "Accounting",
+      "English",
+      "Sociology",
+      "Communications",
+      "Elementary Education",
+      "Biology"
+    ],
+    "cost": {
+      "net_price": "$6,319",
+      "average_aid": "$7,929",
+      "percentage_aid": "81%"
+    },
+    "admissions": {
+      "statistics": {
+        "acceptance_rate": "100%",
+        "early_decision_acceptance_rate": "",
+        "total_applicants": "11,794",
+        "sat_range": "910-1100",
+        "sat_reading": "440-530",
+        "sat_math": "470-570",
+        "sat_submission_percentage": "81%",
+        "act_range": "",
+        "act_english": "",
+        "act_math": "",
+        "act_writing": "",
+        "act_submission_percentage": ""
+      },
+      "deadlines": {
+        "application_deadline": "January 15",
+        "early_decision_deadline": "",
+        "early_action_deadline": "",
+        "offers_early_decision": "No",
+        "offers_early_action": "No",
+        "application_fee": "$65",
+        "application_website": "cuny.edu/admissions/apply.html",
+        "accepts_common_app": "",
+        "accepts_coalition_app": "No"
+      },
+      "requirements": {
+        "gpa": "Required",
+        "rank": "Neither required nor recommended",
+        "transcript": "Required",
+        "college_prep_coures": "Required",
+        "sat/act": "Recommended",
+        "recommendations": "Neither required nor recommended"
+      }
+    }
+  },
+  "Glenville State College": {
+    "niche_report_card": {
+      "Academics": "C+",
+      "Value": "B-",
+      "Diversity": "B+",
+      "Campus": "B-",
+      "Athletics": "B",
+      "Party Scene": "C+",
+      "Professors": "B-",
+      "Location": "C+",
+      "Dorms": "B+",
+      "Campus Food": "B-",
+      "Student Life": "C+",
+      "Safety": "B"
+    },
+    "after_college": {
+      "median_earning_6_years": "$33,800",
+      "graduation_rate": "30%",
+      "employment_rate": "87%"
+    },
+    "students": {
+      "full_time": "1,037",
+      "part_time": "618",
+      "over_25": "9%",
+      "pell_grant": "66%",
+      "varsity_athletes": "30%"
+    },
+    "popular_majors": [
+      "Police and Criminal Science",
+      "Business",
+      "Natural Resources Conservation and Management",
+      "Social Sciences",
+      "Liberal Arts and Humanities",
+      "High School Education",
+      "Elementary Education",
+      "Forestry",
+      "Physical Education Teaching and Coaching",
+      "Criminal Justice and Law Enforcement Administration"
+    ],
+    "cost": {
+      "net_price": "$12,591",
+      "average_aid": "$8,987",
+      "percentage_aid": "96%"
+    },
+    "admissions": {
+      "statistics": {
+        "acceptance_rate": "100%",
+        "early_decision_acceptance_rate": "",
+        "total_applicants": "1,316",
+        "sat_range": "750-950",
+        "sat_reading": "370-470",
+        "sat_math": "380-480",
+        "sat_submission_percentage": "12%",
+        "act_range": "16-22",
+        "act_english": "15-22",
+        "act_math": "16-21",
+        "act_writing": "",
+        "act_submission_percentage": "73%"
+      },
+      "deadlines": {
+        "application_deadline": "",
+        "early_decision_deadline": "",
+        "early_action_deadline": "",
+        "offers_early_decision": "",
+        "offers_early_action": "",
+        "application_fee": "$20",
+        "application_website": "glenville.edu/apply",
+        "accepts_common_app": "",
+        "accepts_coalition_app": "No"
+      },
+      "requirements": {
+        "gpa": "Required",
+        "rank": "Neither required nor recommended",
+        "transcript": "Required",
+        "college_prep_coures": "Recommended",
+        "sat/act": "Required",
+        "recommendations": "Neither required nor recommended"
+      }
+    }
+  },
+  "Bethune-Cookman University": {
+    "niche_report_card": {
+      "Academics": "C+",
+      "Value": "C+",
+      "Diversity": "A-",
+      "Campus": "C",
+      "Athletics": "B+",
+      "Party Scene": "A",
+      "Professors": "B",
+      "Location": "B-",
+      "Dorms": "C",
+      "Campus Food": "B",
+      "Student Life": "B",
+      "Safety": "B-"
+    },
+    "after_college": {
+      "median_earning_6_years": "$29,200",
+      "graduation_rate": "37%",
+      "employment_rate": "92%"
+    },
+    "students": {
+      "full_time": "3,755",
+      "part_time": "237",
+      "over_25": "4%",
+      "pell_grant": "81%",
+      "varsity_athletes": "9%"
+    },
+    "popular_majors": [
+      "Liberal Arts and Humanities",
+      "Criminal Justice and Corrections",
+      "Business",
+      "Psychology",
+      "Adult Development, Gerontology, and Aging",
+      "Communications",
+      "Nursing",
+      "Biology",
+      "Parks, Recreation and Leisure Studies",
+      "Political Science and Government"
+    ],
+    "cost": {
+      "net_price": "$17,313",
+      "average_aid": "$10,122",
+      "percentage_aid": "99%"
+    },
+    "admissions": {
+      "statistics": {
+        "acceptance_rate": "100%",
+        "early_decision_acceptance_rate": "",
+        "total_applicants": "7,936",
+        "sat_range": "710-890",
+        "sat_reading": "360-450",
+        "sat_math": "350-440",
+        "sat_submission_percentage": "50%",
+        "act_range": "15-18",
+        "act_english": "13-18",
+        "act_math": "15-17",
+        "act_writing": "6-8",
+        "act_submission_percentage": "77%"
+      },
+      "deadlines": {
+        "application_deadline": "",
+        "early_decision_deadline": "",
+        "early_action_deadline": "",
+        "offers_early_decision": "",
+        "offers_early_action": "",
+        "application_fee": "$25",
+        "application_website": "wildcat.cookman.edu/ics/admissions",
+        "accepts_common_app": "",
+        "accepts_coalition_app": "No"
+      },
+      "requirements": {
+        "gpa": "Required",
+        "rank": "Recommended",
+        "transcript": "Required",
+        "college_prep_coures": "Neither required nor recommended",
+        "sat/act": "Required",
+        "recommendations": "Required"
+      }
+    }
+  },
+  "Ranken Technical College": {
+    "niche_report_card": {
+      "Academics": "C",
+      "Value": "B+",
+      "Diversity": "B-",
+      "Campus": "NG",
+      "Athletics": "NG",
+      "Party Scene": "NG",
+      "Professors": "C",
+      "Location": "A-",
+      "Dorms": "NG",
+      "Campus Food": "NG",
+      "Student Life": "B+",
+      "Safety": "B+"
+    },
+    "after_college": {
+      "median_earning_6_years": "$48,400",
+      "graduation_rate": "56%",
+      "employment_rate": "93%"
+    },
+    "students": {
+      "full_time": "1,185",
+      "part_time": "459",
+      "over_25": "23%",
+      "pell_grant": "50%",
+      "varsity_athletes": ""
+    },
+    "popular_majors": [
+      "Automotive Mechanics",
+      "Industrial Electronics Technician",
+      "Computer Engineering Technician",
+      "HVAC and Refrigeration Engineering Technician",
+      "Instrumentation Technician",
+      "Machine and Metal Working",
+      "Heavy Equipment Maintenance Technician",
+      "Diesel Mechanics",
+      "Business",
+      "Welding"
+    ],
+    "cost": {
+      "net_price": "$14,937",
+      "average_aid": "$7,276",
+      "percentage_aid": "88%"
+    },
+    "admissions": {
+      "statistics": {
+        "acceptance_rate": "100%",
+        "early_decision_acceptance_rate": "",
+        "total_applicants": "",
+        "sat_range": "",
+        "sat_reading": "",
+        "sat_math": "",
+        "sat_submission_percentage": "",
+        "act_range": "",
+        "act_english": "",
+        "act_math": "",
+        "act_writing": "",
+        "act_submission_percentage": ""
+      },
+      "deadlines": {
+        "application_deadline": "",
+        "early_decision_deadline": "",
+        "early_action_deadline": "",
+        "offers_early_decision": "",
+        "offers_early_action": "",
+        "application_fee": "$0",
+        "application_website": "ranken.edu/apply-to-ranken",
+        "accepts_common_app": "",
+        "accepts_coalition_app": "No"
+      },
+      "requirements": {
+        "gpa": "—",
+        "rank": "—",
+        "transcript": "—",
+        "college_prep_coures": "—",
+        "sat/act": "—",
+        "recommendations": "—"
+      }
+    }
+  },
+  "Long Island University - C.W. Post": {
+    "niche_report_card": {
+      "Academics": "B-",
+      "Value": "B",
+      "Diversity": "A-",
+      "Campus": "C",
+      "Athletics": "B+",
+      "Party Scene": "C+",
+      "Professors": "B-",
+      "Location": "C",
+      "Dorms": "C-",
+      "Campus Food": "C",
+      "Student Life": "C",
+      "Safety": "B+"
+    },
+    "after_college": {
+      "median_earning_6_years": "$49,000",
+      "graduation_rate": "47%",
+      "employment_rate": "90%"
+    },
+    "students": {
+      "full_time": "2,845",
+      "part_time": "3,471",
+      "over_25": "9%",
+      "pell_grant": "31%",
+      "varsity_athletes": "19%"
+    },
+    "popular_majors": [
+      "Business",
+      "Psychology",
+      "Criminal Justice and Law Enforcement Administration",
+      "Dietetics and Clinical Nutrition",
+      "Health Professions",
+      "Healthcare Management",
+      "Accounting",
+      "Public Relations",
+      "Radiation Therapy",
+      "Elementary Education"
+    ],
+    "cost": {
+      "net_price": "$28,868",
+      "average_aid": "$20,316",
+      "percentage_aid": "92%"
+    },
+    "admissions": {
+      "statistics": {
+        "acceptance_rate": "83%",
+        "early_decision_acceptance_rate": "",
+        "total_applicants": "6,951",
+        "sat_range": "1060-1240",
+        "sat_reading": "530-620",
+        "sat_math": "520-620",
+        "sat_submission_percentage": "73%",
+        "act_range": "21-26",
+        "act_english": "21-26",
+        "act_math": "20-26",
+        "act_writing": "7-8",
+        "act_submission_percentage": "39%"
+      },
+      "deadlines": {
+        "application_deadline": "",
+        "early_decision_deadline": "",
+        "early_action_deadline": "",
+        "offers_early_decision": "",
+        "offers_early_action": "",
+        "application_fee": "$50",
+        "application_website": "apply.liu.edu/quickapp2/?campus=p",
+        "accepts_common_app": "Yes",
+        "accepts_coalition_app": "No"
+      },
+      "requirements": {
+        "gpa": "Required",
+        "rank": "Recommended",
+        "transcript": "Required",
+        "college_prep_coures": "Recommended",
+        "sat/act": "Required",
+        "recommendations": "Required"
+      }
+    }
+  }
+}

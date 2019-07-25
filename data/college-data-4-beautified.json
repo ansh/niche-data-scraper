@@ -1,0 +1,2722 @@
+{
+  "Emory & Henry College": {
+    "niche_report_card": {
+      "Academics": "B",
+      "Value": "B+",
+      "Diversity": "A-",
+      "Campus": "C+",
+      "Athletics": "B",
+      "Party Scene": "C+",
+      "Professors": "B+",
+      "Location": "C-",
+      "Dorms": "B+",
+      "Campus Food": "C",
+      "Student Life": "C+",
+      "Safety": "B"
+    },
+    "after_college": {
+      "median_earning_6_years": "$40,700",
+      "graduation_rate": "52%",
+      "employment_rate": "93%"
+    },
+    "students": {
+      "full_time": "966",
+      "part_time": "34",
+      "over_25": "2%",
+      "pell_grant": "45%",
+      "varsity_athletes": "40%"
+    },
+    "popular_majors": [
+      "Business",
+      "Psychology",
+      "History",
+      "Communications",
+      "Sociology",
+      "Sport and Fitness Management",
+      "Biology",
+      "Political Science and Government",
+      "Mathematics",
+      "Physical Education Teaching and Coaching"
+    ],
+    "cost": {
+      "net_price": "$20,257",
+      "average_aid": "$27,155",
+      "percentage_aid": "100%"
+    },
+    "admissions": {
+      "statistics": {
+        "acceptance_rate": "72%",
+        "early_decision_acceptance_rate": "",
+        "total_applicants": "1,426",
+        "sat_range": "990-1170",
+        "sat_reading": "500-590",
+        "sat_math": "490-580",
+        "sat_submission_percentage": "68%",
+        "act_range": "19-25",
+        "act_english": "18-27",
+        "act_math": "18-25",
+        "act_writing": "",
+        "act_submission_percentage": "45%"
+      },
+      "deadlines": {
+        "application_deadline": "Rolling Admissions",
+        "early_decision_deadline": "",
+        "early_action_deadline": "December 1",
+        "offers_early_decision": "No",
+        "offers_early_action": "Yes",
+        "application_fee": "$0",
+        "application_website": "ehc.edu/admission/apply-now",
+        "accepts_common_app": "Yes",
+        "accepts_coalition_app": "No"
+      },
+      "requirements": {
+        "gpa": "Required",
+        "rank": "Recommended",
+        "transcript": "Required",
+        "college_prep_coures": "Recommended",
+        "sat/act": "Required",
+        "recommendations": "Considered but not required"
+      }
+    }
+  },
+  "Oklahoma Christian University": {
+    "niche_report_card": {
+      "Academics": "B",
+      "Value": "B",
+      "Diversity": "A-",
+      "Campus": "B",
+      "Athletics": "B",
+      "Party Scene": "C",
+      "Professors": "B-",
+      "Location": "B",
+      "Dorms": "B+",
+      "Campus Food": "C",
+      "Student Life": "B+",
+      "Safety": "A-"
+    },
+    "after_college": {
+      "median_earning_6_years": "$38,500",
+      "graduation_rate": "54%",
+      "employment_rate": "90%"
+    },
+    "students": {
+      "full_time": "1,846",
+      "part_time": "126",
+      "over_25": "4%",
+      "pell_grant": "24%",
+      "varsity_athletes": "16%"
+    },
+    "popular_majors": [
+      "Nursing",
+      "Mechanical Engineering",
+      "Accounting",
+      "Liberal Arts and Humanities",
+      "Sport and Fitness Management",
+      "Business",
+      "Psychology",
+      "Biblical Studies",
+      "Marketing",
+      "Elementary Education"
+    ],
+    "cost": {
+      "net_price": "$19,473",
+      "average_aid": "$13,005",
+      "percentage_aid": "100%"
+    },
+    "admissions": {
+      "statistics": {
+        "acceptance_rate": "63%",
+        "early_decision_acceptance_rate": "",
+        "total_applicants": "2,530",
+        "sat_range": "990-1220",
+        "sat_reading": "500-620",
+        "sat_math": "490-600",
+        "sat_submission_percentage": "29%",
+        "act_range": "20-27",
+        "act_english": "19-27",
+        "act_math": "20-28",
+        "act_writing": "6-8",
+        "act_submission_percentage": "86%"
+      },
+      "deadlines": {
+        "application_deadline": "Rolling Admissions",
+        "early_decision_deadline": "",
+        "early_action_deadline": "",
+        "offers_early_decision": "No",
+        "offers_early_action": "No",
+        "application_fee": "$25",
+        "application_website": "signmeup.oc.edu/datatel.erecruiting.web.external/pages/welcome.aspx",
+        "accepts_common_app": "",
+        "accepts_coalition_app": "No"
+      },
+      "requirements": {
+        "gpa": "Required",
+        "rank": "Required",
+        "transcript": "Required",
+        "college_prep_coures": "Recommended",
+        "sat/act": "Required",
+        "recommendations": "Recommended"
+      }
+    }
+  },
+  "Rocky Mountain CollegeThis college has been claimed by the college or a college representative.": {
+    "niche_report_card": {
+      "Academics": "B",
+      "Value": "B+",
+      "Diversity": "A-",
+      "Campus": "B",
+      "Athletics": "B",
+      "Party Scene": "B-",
+      "Professors": "B-",
+      "Location": "B-",
+      "Dorms": "A-",
+      "Campus Food": "C+",
+      "Student Life": "B+",
+      "Safety": "A"
+    },
+    "after_college": {
+      "median_earning_6_years": "$38,800",
+      "graduation_rate": "52%",
+      "employment_rate": "91%"
+    },
+    "students": {
+      "full_time": "868",
+      "part_time": "30",
+      "over_25": "6%",
+      "pell_grant": "33%",
+      "varsity_athletes": "45%"
+    },
+    "popular_majors": [
+      "Business",
+      "Kinesiology and Exercise Science",
+      "Biology",
+      "Accounting",
+      "Elementary Education",
+      "Professional Pilot",
+      "Equine Studies",
+      "Small Business Management",
+      "Psychology",
+      "Computer Science"
+    ],
+    "cost": {
+      "net_price": "$20,276",
+      "average_aid": "$17,460",
+      "percentage_aid": "100%"
+    },
+    "admissions": {
+      "statistics": {
+        "acceptance_rate": "64%",
+        "early_decision_acceptance_rate": "",
+        "total_applicants": "1,238",
+        "sat_range": "910-1150",
+        "sat_reading": "450-590",
+        "sat_math": "460-560",
+        "sat_submission_percentage": "30%",
+        "act_range": "20-25",
+        "act_english": "18-24",
+        "act_math": "18-25",
+        "act_writing": "6-8",
+        "act_submission_percentage": "82%"
+      },
+      "deadlines": {
+        "application_deadline": "Rolling Admissions",
+        "early_decision_deadline": "",
+        "early_action_deadline": "",
+        "offers_early_decision": "No",
+        "offers_early_action": "No",
+        "application_fee": "$0",
+        "application_website": "rocky.edu/apply",
+        "accepts_common_app": "No",
+        "accepts_coalition_app": "No"
+      },
+      "requirements": {
+        "gpa": "Required",
+        "rank": "Recommended",
+        "transcript": "Required",
+        "college_prep_coures": "Recommended",
+        "sat/act": "Required",
+        "recommendations": "Recommended"
+      }
+    }
+  },
+  "College of Saint Mary": {
+    "niche_report_card": {
+      "Academics": "B",
+      "Value": "B+",
+      "Diversity": "B",
+      "Campus": "B-",
+      "Athletics": "NG",
+      "Party Scene": "C+",
+      "Professors": "B",
+      "Location": "A",
+      "Dorms": "B",
+      "Campus Food": "C+",
+      "Student Life": "B",
+      "Safety": "A-"
+    },
+    "after_college": {
+      "median_earning_6_years": "$41,200",
+      "graduation_rate": "48%",
+      "employment_rate": "93%"
+    },
+    "students": {
+      "full_time": "761",
+      "part_time": "71",
+      "over_25": "28%",
+      "pell_grant": "30%",
+      "varsity_athletes": ""
+    },
+    "popular_majors": [
+      "Rehabilitation and Therapy",
+      "Biology",
+      "Nursing Assistant",
+      "Nursing",
+      "Liberal Arts and Humanities",
+      "Business",
+      "Elementary Education",
+      "Linguistics, Interpretation, and Translation",
+      "Paralegal",
+      "Psychology"
+    ],
+    "cost": {
+      "net_price": "$19,404",
+      "average_aid": "$21,218",
+      "percentage_aid": "98%"
+    },
+    "admissions": {
+      "statistics": {
+        "acceptance_rate": "56%",
+        "early_decision_acceptance_rate": "",
+        "total_applicants": "378",
+        "sat_range": "",
+        "sat_reading": "",
+        "sat_math": "",
+        "sat_submission_percentage": "",
+        "act_range": "19-24",
+        "act_english": "19-24",
+        "act_math": "17-24",
+        "act_writing": "",
+        "act_submission_percentage": "94%"
+      },
+      "deadlines": {
+        "application_deadline": "",
+        "early_decision_deadline": "",
+        "early_action_deadline": "",
+        "offers_early_decision": "",
+        "offers_early_action": "",
+        "application_fee": "$30",
+        "application_website": "selfservice.csm.edu/selfservice/admissions/applicationselectenabledform.aspx",
+        "accepts_common_app": "",
+        "accepts_coalition_app": "No"
+      },
+      "requirements": {
+        "gpa": "Recommended",
+        "rank": "Recommended",
+        "transcript": "Recommended",
+        "college_prep_coures": "Neither required nor recommended",
+        "sat/act": "Recommended",
+        "recommendations": "Neither required nor recommended"
+      }
+    }
+  },
+  "University of California - MercedThis college has been claimed by the college or a college representative.": {
+    "niche_report_card": {
+      "Academics": "B",
+      "Value": "B+",
+      "Diversity": "A-",
+      "Campus": "C+",
+      "Athletics": "C",
+      "Party Scene": "C+",
+      "Professors": "A",
+      "Location": "D-",
+      "Dorms": "A",
+      "Campus Food": "C-",
+      "Student Life": "C+",
+      "Safety": "B+"
+    },
+    "after_college": {
+      "median_earning_6_years": "",
+      "graduation_rate": "64%",
+      "employment_rate": "91%"
+    },
+    "students": {
+      "full_time": "7,297",
+      "part_time": "78",
+      "over_25": "2%",
+      "pell_grant": "66%",
+      "varsity_athletes": "2%"
+    },
+    "popular_majors": [
+      "Biology",
+      "Psychology",
+      "Business",
+      "Mechanical Engineering",
+      "Sociology",
+      "Political Science and Government",
+      "Cognitive Science",
+      "Computer Hardware Engineering",
+      "Economics",
+      "Bioengineering and Biomedical Engineering"
+    ],
+    "cost": {
+      "net_price": "$13,147",
+      "average_aid": "$23,444",
+      "percentage_aid": "94%"
+    },
+    "admissions": {
+      "statistics": {
+        "acceptance_rate": "70%",
+        "early_decision_acceptance_rate": "",
+        "total_applicants": "22,574",
+        "sat_range": "1000-1170",
+        "sat_reading": "500-580",
+        "sat_math": "500-590",
+        "sat_submission_percentage": "94%",
+        "act_range": "20-27",
+        "act_english": "17-23",
+        "act_math": "19-24",
+        "act_writing": "",
+        "act_submission_percentage": "58%"
+      },
+      "deadlines": {
+        "application_deadline": "November 30",
+        "early_decision_deadline": "",
+        "early_action_deadline": "",
+        "offers_early_decision": "No",
+        "offers_early_action": "No",
+        "application_fee": "$70",
+        "application_website": "universityofcalifornia.edu/admissions/undergrad_adm/apply/apply_online.html",
+        "accepts_common_app": "",
+        "accepts_coalition_app": "No"
+      },
+      "requirements": {
+        "gpa": "Required",
+        "rank": "Neither required nor recommended",
+        "transcript": "Required",
+        "college_prep_coures": "Required",
+        "sat/act": "Required",
+        "recommendations": "Neither required nor recommended"
+      }
+    }
+  },
+  "Grand Canyon UniversityThis college has been claimed by the college or a college representative.": {
+    "niche_report_card": {
+      "Academics": "B-",
+      "Value": "B",
+      "Diversity": "A",
+      "Campus": "A+",
+      "Athletics": "A-",
+      "Party Scene": "B-",
+      "Professors": "B-",
+      "Location": "C+",
+      "Dorms": "A+",
+      "Campus Food": "A+",
+      "Student Life": "A",
+      "Safety": "A-"
+    },
+    "after_college": {
+      "median_earning_6_years": "$52,700",
+      "graduation_rate": "41%",
+      "employment_rate": "79%"
+    },
+    "students": {
+      "full_time": "15,998",
+      "part_time": "33,558",
+      "over_25": "5%",
+      "pell_grant": "40%",
+      "varsity_athletes": "2%"
+    },
+    "popular_majors": [
+      "Nursing",
+      "Special Education and Teaching",
+      "Business",
+      "Human Services",
+      "Elementary Education",
+      "Religious Education",
+      "Hospital Management",
+      "Community Organization and Advocacy",
+      "Early Childhood Education",
+      "Biology"
+    ],
+    "cost": {
+      "net_price": "$20,912",
+      "average_aid": "$10,181",
+      "percentage_aid": "99%"
+    },
+    "admissions": {
+      "statistics": {
+        "acceptance_rate": "67%",
+        "early_decision_acceptance_rate": "",
+        "total_applicants": "32,734",
+        "sat_range": "",
+        "sat_reading": "",
+        "sat_math": "",
+        "sat_submission_percentage": "",
+        "act_range": "",
+        "act_english": "",
+        "act_math": "",
+        "act_writing": "",
+        "act_submission_percentage": ""
+      },
+      "deadlines": {
+        "application_deadline": "Rolling Admissions",
+        "early_decision_deadline": "",
+        "early_action_deadline": "",
+        "offers_early_decision": "",
+        "offers_early_action": "",
+        "application_fee": "$0",
+        "application_website": "gcu.edu/apply",
+        "accepts_common_app": "",
+        "accepts_coalition_app": "No"
+      },
+      "requirements": {
+        "gpa": "Required",
+        "rank": "Neither required nor recommended",
+        "transcript": "Required",
+        "college_prep_coures": "Neither required nor recommended",
+        "sat/act": "Recommended",
+        "recommendations": "Neither required nor recommended"
+      }
+    }
+  },
+  "Monroe College - BronxThis college has been claimed by the college or a college representative.": {
+    "niche_report_card": {
+      "Academics": "B",
+      "Value": "B",
+      "Diversity": "A",
+      "Campus": "B+",
+      "Athletics": "B-",
+      "Party Scene": "B+",
+      "Professors": "B",
+      "Location": "A+",
+      "Dorms": "C+",
+      "Campus Food": "A",
+      "Student Life": "A-",
+      "Safety": "A-"
+    },
+    "after_college": {
+      "median_earning_6_years": "$30,300",
+      "graduation_rate": "53%",
+      "employment_rate": "87%"
+    },
+    "students": {
+      "full_time": "4,126",
+      "part_time": "1,388",
+      "over_25": "24%",
+      "pell_grant": "76%",
+      "varsity_athletes": "12%"
+    },
+    "popular_majors": [
+      "Business",
+      "Police and Criminal Science",
+      "Criminal Justice and Law Enforcement Administration",
+      "Hospitality and Tourism Management",
+      "Healthcare Management",
+      "Medical Office Management",
+      "Information Science",
+      "Public Health",
+      "Accounting",
+      "Medical Assistant"
+    ],
+    "cost": {
+      "net_price": "$12,280",
+      "average_aid": "$10,773",
+      "percentage_aid": "97%"
+    },
+    "admissions": {
+      "statistics": {
+        "acceptance_rate": "52%",
+        "early_decision_acceptance_rate": "",
+        "total_applicants": "5,046",
+        "sat_range": "",
+        "sat_reading": "",
+        "sat_math": "",
+        "sat_submission_percentage": "",
+        "act_range": "",
+        "act_english": "",
+        "act_math": "",
+        "act_writing": "",
+        "act_submission_percentage": ""
+      },
+      "deadlines": {
+        "application_deadline": "",
+        "early_decision_deadline": "",
+        "early_action_deadline": "",
+        "offers_early_decision": "",
+        "offers_early_action": "",
+        "application_fee": "$35",
+        "application_website": "monroecollege.edu",
+        "accepts_common_app": "",
+        "accepts_coalition_app": "No"
+      },
+      "requirements": {
+        "gpa": "Required",
+        "rank": "Required",
+        "transcript": "Required",
+        "college_prep_coures": "Recommended",
+        "sat/act": "Recommended",
+        "recommendations": "Required"
+      }
+    }
+  },
+  "Penn State New Kensington": {
+    "niche_report_card": {
+      "Academics": "B-",
+      "Value": "A-",
+      "Diversity": "B+",
+      "Campus": "B",
+      "Athletics": "C-",
+      "Party Scene": "C",
+      "Professors": "B",
+      "Location": "C+",
+      "Dorms": "NG",
+      "Campus Food": "NG",
+      "Student Life": "C+",
+      "Safety": "A+"
+    },
+    "after_college": {
+      "median_earning_6_years": "$50,100",
+      "graduation_rate": "47%",
+      "employment_rate": "94%"
+    },
+    "students": {
+      "full_time": "484",
+      "part_time": "111",
+      "over_25": "8%",
+      "pell_grant": "34%",
+      "varsity_athletes": "14%"
+    },
+    "popular_majors": [
+      "Nursing",
+      "Information Science",
+      "Radiation Therapy",
+      "Business",
+      "Criminal Justice and Safety Studies",
+      "Biomedical Technician",
+      "Psychology",
+      "Communications",
+      "Electrical Engineering",
+      "Liberal Arts and Humanities"
+    ],
+    "cost": {
+      "net_price": "$14,732",
+      "average_aid": "$7,033",
+      "percentage_aid": "93%"
+    },
+    "admissions": {
+      "statistics": {
+        "acceptance_rate": "77%",
+        "early_decision_acceptance_rate": "",
+        "total_applicants": "555",
+        "sat_range": "990-1180",
+        "sat_reading": "490-580",
+        "sat_math": "500-600",
+        "sat_submission_percentage": "89%",
+        "act_range": "18-29",
+        "act_english": "15-29",
+        "act_math": "19-27",
+        "act_writing": "",
+        "act_submission_percentage": "2%"
+      },
+      "deadlines": {
+        "application_deadline": "",
+        "early_decision_deadline": "",
+        "early_action_deadline": "",
+        "offers_early_decision": "",
+        "offers_early_action": "",
+        "application_fee": "$65",
+        "application_website": "admissions.psu.edu/apply",
+        "accepts_common_app": "",
+        "accepts_coalition_app": "No"
+      },
+      "requirements": {
+        "gpa": "Required",
+        "rank": "Recommended",
+        "transcript": "Required",
+        "college_prep_coures": "Recommended",
+        "sat/act": "Required",
+        "recommendations": "Neither required nor recommended"
+      }
+    }
+  },
+  "Bethel University - Minnesota": {
+    "niche_report_card": {
+      "Academics": "B",
+      "Value": "A-",
+      "Diversity": "B+",
+      "Campus": "B+",
+      "Athletics": "B-",
+      "Party Scene": "C-",
+      "Professors": "B",
+      "Location": "B-",
+      "Dorms": "A-",
+      "Campus Food": "A+",
+      "Student Life": "C+",
+      "Safety": "A"
+    },
+    "after_college": {
+      "median_earning_6_years": "$47,300",
+      "graduation_rate": "71%",
+      "employment_rate": "95%"
+    },
+    "students": {
+      "full_time": "2,407",
+      "part_time": "494",
+      "over_25": "3%",
+      "pell_grant": "23%",
+      "varsity_athletes": "20%"
+    },
+    "popular_majors": [
+      "Nursing",
+      "Business",
+      "Communications",
+      "Kinesiology and Exercise Science",
+      "Elementary Education",
+      "Biology",
+      "Psychology",
+      "Chemistry",
+      "Physics",
+      "Religious Vocations"
+    ],
+    "cost": {
+      "net_price": "$28,706",
+      "average_aid": "$19,821",
+      "percentage_aid": "99%"
+    },
+    "admissions": {
+      "statistics": {
+        "acceptance_rate": "83%",
+        "early_decision_acceptance_rate": "",
+        "total_applicants": "1,812",
+        "sat_range": "1030-1360",
+        "sat_reading": "530-690",
+        "sat_math": "500-670",
+        "sat_submission_percentage": "6%",
+        "act_range": "21-27",
+        "act_english": "21-27",
+        "act_math": "21-27",
+        "act_writing": "",
+        "act_submission_percentage": "95%"
+      },
+      "deadlines": {
+        "application_deadline": "Rolling Admissions",
+        "early_decision_deadline": "",
+        "early_action_deadline": "",
+        "offers_early_decision": "No",
+        "offers_early_action": "No",
+        "application_fee": "$0",
+        "application_website": "bethel.edu/undergrad/admissions/apply",
+        "accepts_common_app": "",
+        "accepts_coalition_app": "No"
+      },
+      "requirements": {
+        "gpa": "Required",
+        "rank": "Neither required nor recommended",
+        "transcript": "Required",
+        "college_prep_coures": "Neither required nor recommended",
+        "sat/act": "Required",
+        "recommendations": "Considered but not required"
+      }
+    }
+  },
+  "Olivet Nazarene University": {
+    "niche_report_card": {
+      "Academics": "B-",
+      "Value": "A-",
+      "Diversity": "B+",
+      "Campus": "B+",
+      "Athletics": "B",
+      "Party Scene": "C-",
+      "Professors": "B-",
+      "Location": "B-",
+      "Dorms": "A-",
+      "Campus Food": "C+",
+      "Student Life": "B",
+      "Safety": "A"
+    },
+    "after_college": {
+      "median_earning_6_years": "$40,400",
+      "graduation_rate": "66%",
+      "employment_rate": "94%"
+    },
+    "students": {
+      "full_time": "3,113",
+      "part_time": "258",
+      "over_25": "9%",
+      "pell_grant": "32%",
+      "varsity_athletes": "12%"
+    },
+    "popular_majors": [
+      "Nursing",
+      "Business",
+      "Engineering",
+      "Psychology",
+      "Elementary Education",
+      "Social Work and Youth Services",
+      "Criminal Justice and Safety Studies",
+      "Arts",
+      "Marketing",
+      "Economics"
+    ],
+    "cost": {
+      "net_price": "$21,085",
+      "average_aid": "$23,905",
+      "percentage_aid": "100%"
+    },
+    "admissions": {
+      "statistics": {
+        "acceptance_rate": "66%",
+        "early_decision_acceptance_rate": "",
+        "total_applicants": "3,964",
+        "sat_range": "1020-1230",
+        "sat_reading": "510-620",
+        "sat_math": "510-610",
+        "sat_submission_percentage": "25%",
+        "act_range": "20-26",
+        "act_english": "20-27",
+        "act_math": "19-26",
+        "act_writing": "",
+        "act_submission_percentage": "83%"
+      },
+      "deadlines": {
+        "application_deadline": "",
+        "early_decision_deadline": "",
+        "early_action_deadline": "",
+        "offers_early_decision": "",
+        "offers_early_action": "",
+        "application_fee": "$25",
+        "application_website": "olivet.edu/apply",
+        "accepts_common_app": "",
+        "accepts_coalition_app": "No"
+      },
+      "requirements": {
+        "gpa": "Required",
+        "rank": "Recommended",
+        "transcript": "Required",
+        "college_prep_coures": "Recommended",
+        "sat/act": "Required",
+        "recommendations": "Required"
+      }
+    }
+  },
+  "University of Wisconsin - Platteville": {
+    "niche_report_card": {
+      "Academics": "B",
+      "Value": "A-",
+      "Diversity": "B",
+      "Campus": "B",
+      "Athletics": "B-",
+      "Party Scene": "B+",
+      "Professors": "B-",
+      "Location": "B-",
+      "Dorms": "B",
+      "Campus Food": "A-",
+      "Student Life": "B",
+      "Safety": "B+"
+    },
+    "after_college": {
+      "median_earning_6_years": "$47,300",
+      "graduation_rate": "53%",
+      "employment_rate": "97%"
+    },
+    "students": {
+      "full_time": "6,723",
+      "part_time": "888",
+      "over_25": "4%",
+      "pell_grant": "26%",
+      "varsity_athletes": "6%"
+    },
+    "popular_majors": [
+      "Mechanical Engineering",
+      "Business",
+      "Criminal Justice and Safety Studies",
+      "Manufacturing Engineering Technician",
+      "Civil Engineering",
+      "Agricultural Business",
+      "Biology",
+      "Electrical Engineering",
+      "Animal Sciences and Husbandry",
+      "Psychology"
+    ],
+    "cost": {
+      "net_price": "$14,363",
+      "average_aid": "$3,254",
+      "percentage_aid": "85%"
+    },
+    "admissions": {
+      "statistics": {
+        "acceptance_rate": "80%",
+        "early_decision_acceptance_rate": "",
+        "total_applicants": "3,676",
+        "sat_range": "",
+        "sat_reading": "",
+        "sat_math": "",
+        "sat_submission_percentage": "0%",
+        "act_range": "21-26",
+        "act_english": "19-25",
+        "act_math": "21-27",
+        "act_writing": "",
+        "act_submission_percentage": "97%"
+      },
+      "deadlines": {
+        "application_deadline": "Rolling Admissions",
+        "early_decision_deadline": "",
+        "early_action_deadline": "",
+        "offers_early_decision": "No",
+        "offers_early_action": "No",
+        "application_fee": "$50",
+        "application_website": "apply.wisconsin.edu",
+        "accepts_common_app": "",
+        "accepts_coalition_app": "No"
+      },
+      "requirements": {
+        "gpa": "Required",
+        "rank": "Required",
+        "transcript": "Required",
+        "college_prep_coures": "Required",
+        "sat/act": "Required",
+        "recommendations": "Neither required nor recommended"
+      }
+    }
+  },
+  "Northwestern State University of Louisiana": {
+    "niche_report_card": {
+      "Academics": "B",
+      "Value": "B-",
+      "Diversity": "A-",
+      "Campus": "B",
+      "Athletics": "B+",
+      "Party Scene": "B+",
+      "Professors": "A-",
+      "Location": "B-",
+      "Dorms": "B-",
+      "Campus Food": "B-",
+      "Student Life": "A-",
+      "Safety": "B"
+    },
+    "after_college": {
+      "median_earning_6_years": "$34,300",
+      "graduation_rate": "39%",
+      "employment_rate": "90%"
+    },
+    "students": {
+      "full_time": "5,471",
+      "part_time": "3,972",
+      "over_25": "16%",
+      "pell_grant": "51%",
+      "varsity_athletes": "7%"
+    },
+    "popular_majors": [
+      "Liberal Arts and Humanities",
+      "Nursing",
+      "Business",
+      "Psychology",
+      "Biology",
+      "Criminal Justice and Safety Studies",
+      "Radiologic Technician",
+      "Social Work and Youth Services",
+      "Family Studies and Consumer Sciences",
+      "Information Science"
+    ],
+    "cost": {
+      "net_price": "$10,503",
+      "average_aid": "$9,429",
+      "percentage_aid": "97%"
+    },
+    "admissions": {
+      "statistics": {
+        "acceptance_rate": "80%",
+        "early_decision_acceptance_rate": "",
+        "total_applicants": "4,409",
+        "sat_range": "900-1110",
+        "sat_reading": "450-550",
+        "sat_math": "450-560",
+        "sat_submission_percentage": "2%",
+        "act_range": "19-24",
+        "act_english": "20-25",
+        "act_math": "17-23",
+        "act_writing": "",
+        "act_submission_percentage": "94%"
+      },
+      "deadlines": {
+        "application_deadline": "August 1",
+        "early_decision_deadline": "",
+        "early_action_deadline": "",
+        "offers_early_decision": "No",
+        "offers_early_action": "No",
+        "application_fee": "$20",
+        "application_website": "nsula.edu/admissions",
+        "accepts_common_app": "",
+        "accepts_coalition_app": "No"
+      },
+      "requirements": {
+        "gpa": "Required",
+        "rank": "Neither required nor recommended",
+        "transcript": "Required",
+        "college_prep_coures": "Required",
+        "sat/act": "Required",
+        "recommendations": "Neither required nor recommended"
+      }
+    }
+  },
+  "Chatham UniversityThis college has been claimed by the college or a college representative.": {
+    "niche_report_card": {
+      "Academics": "B",
+      "Value": "B",
+      "Diversity": "B",
+      "Campus": "A",
+      "Athletics": "B-",
+      "Party Scene": "B+",
+      "Professors": "B",
+      "Location": "A+",
+      "Dorms": "A+",
+      "Campus Food": "A-",
+      "Student Life": "B+",
+      "Safety": "A"
+    },
+    "after_college": {
+      "median_earning_6_years": "$36,600",
+      "graduation_rate": "63%",
+      "employment_rate": "91%"
+    },
+    "students": {
+      "full_time": "951",
+      "part_time": "257",
+      "over_25": "9%",
+      "pell_grant": "30%",
+      "varsity_athletes": "26%"
+    },
+    "popular_majors": [
+      "Nursing",
+      "Biology",
+      "Psychology",
+      "Creative Writing",
+      "Social Work and Youth Services",
+      "Public Health",
+      "Kinesiology and Exercise Science",
+      "Accounting",
+      "Interior Architecture",
+      "Marketing"
+    ],
+    "cost": {
+      "net_price": "$25,525",
+      "average_aid": "$23,725",
+      "percentage_aid": "100%"
+    },
+    "admissions": {
+      "statistics": {
+        "acceptance_rate": "55%",
+        "early_decision_acceptance_rate": "",
+        "total_applicants": "2,231",
+        "sat_range": "",
+        "sat_reading": "",
+        "sat_math": "",
+        "sat_submission_percentage": "",
+        "act_range": "",
+        "act_english": "",
+        "act_math": "",
+        "act_writing": "",
+        "act_submission_percentage": ""
+      },
+      "deadlines": {
+        "application_deadline": "Rolling Admissions",
+        "early_decision_deadline": "",
+        "early_action_deadline": "",
+        "offers_early_decision": "No",
+        "offers_early_action": "No",
+        "application_fee": "$0",
+        "application_website": "chatham.edu/admission/apply.cfm",
+        "accepts_common_app": "Yes",
+        "accepts_coalition_app": "No"
+      },
+      "requirements": {
+        "gpa": "Required",
+        "rank": "Recommended",
+        "transcript": "Required",
+        "college_prep_coures": "Required",
+        "sat/act": "Recommended",
+        "recommendations": "Required"
+      }
+    }
+  },
+  "University of JamestownThis college has been claimed by the college or a college representative.": {
+    "niche_report_card": {
+      "Academics": "B",
+      "Value": "A-",
+      "Diversity": "A-",
+      "Campus": "B",
+      "Athletics": "B",
+      "Party Scene": "B-",
+      "Professors": "B-",
+      "Location": "B-",
+      "Dorms": "B+",
+      "Campus Food": "B",
+      "Student Life": "B+",
+      "Safety": "B-"
+    },
+    "after_college": {
+      "median_earning_6_years": "$43,800",
+      "graduation_rate": "53%",
+      "employment_rate": "95%"
+    },
+    "students": {
+      "full_time": "871",
+      "part_time": "43",
+      "over_25": "2%",
+      "pell_grant": "25%",
+      "varsity_athletes": "59%"
+    },
+    "popular_majors": [
+      "Nursing",
+      "Business",
+      "Elementary Education",
+      "Kinesiology and Exercise Science",
+      "Psychology",
+      "Accounting",
+      "Biology",
+      "Criminal Justice and Corrections",
+      "Computer Science",
+      "Information Technology"
+    ],
+    "cost": {
+      "net_price": "$18,471",
+      "average_aid": "$13,313",
+      "percentage_aid": "100%"
+    },
+    "admissions": {
+      "statistics": {
+        "acceptance_rate": "65%",
+        "early_decision_acceptance_rate": "",
+        "total_applicants": "1,154",
+        "sat_range": "940-1050",
+        "sat_reading": "460-520",
+        "sat_math": "480-530",
+        "sat_submission_percentage": "10%",
+        "act_range": "19-24",
+        "act_english": "19-24",
+        "act_math": "19-25",
+        "act_writing": "",
+        "act_submission_percentage": "82%"
+      },
+      "deadlines": {
+        "application_deadline": "",
+        "early_decision_deadline": "",
+        "early_action_deadline": "",
+        "offers_early_decision": "",
+        "offers_early_action": "",
+        "application_fee": "$0",
+        "application_website": "my.uj.edu/ics/admissions/online_forms.jnz",
+        "accepts_common_app": "",
+        "accepts_coalition_app": "No"
+      },
+      "requirements": {
+        "gpa": "Required",
+        "rank": "Neither required nor recommended",
+        "transcript": "Required",
+        "college_prep_coures": "Required",
+        "sat/act": "Required",
+        "recommendations": "Neither required nor recommended"
+      }
+    }
+  },
+  "Bay Path UniversityThis college has been claimed by the college or a college representative.": {
+    "niche_report_card": {
+      "Academics": "B",
+      "Value": "B+",
+      "Diversity": "B+",
+      "Campus": "B",
+      "Athletics": "NG",
+      "Party Scene": "C-",
+      "Professors": "B",
+      "Location": "C+",
+      "Dorms": "B",
+      "Campus Food": "C",
+      "Student Life": "B-",
+      "Safety": "A+"
+    },
+    "after_college": {
+      "median_earning_6_years": "$42,700",
+      "graduation_rate": "57%",
+      "employment_rate": "91%"
+    },
+    "students": {
+      "full_time": "1,367",
+      "part_time": "580",
+      "over_25": "42%",
+      "pell_grant": "60%",
+      "varsity_athletes": ""
+    },
+    "popular_majors": [
+      "Business",
+      "Psychology",
+      "Health Service Preparatory Studies",
+      "Liberal Arts and Humanities",
+      "Biology",
+      "Education",
+      "Police and Criminal Science",
+      "Nursing",
+      "Accounting",
+      "Legal Studies"
+    ],
+    "cost": {
+      "net_price": "$18,257",
+      "average_aid": "$27,496",
+      "percentage_aid": "99%"
+    },
+    "admissions": {
+      "statistics": {
+        "acceptance_rate": "63%",
+        "early_decision_acceptance_rate": "",
+        "total_applicants": "1,470",
+        "sat_range": "970-1190",
+        "sat_reading": "500-610",
+        "sat_math": "470-580",
+        "sat_submission_percentage": "65%",
+        "act_range": "20-25",
+        "act_english": "22-23",
+        "act_math": "7-18",
+        "act_writing": "9-11",
+        "act_submission_percentage": "10%"
+      },
+      "deadlines": {
+        "application_deadline": "Rolling Admissions",
+        "early_decision_deadline": "",
+        "early_action_deadline": "December 15",
+        "offers_early_decision": "No",
+        "offers_early_action": "Yes",
+        "application_fee": "$25",
+        "application_website": "baypath.edu/admissions/apply",
+        "accepts_common_app": "Yes",
+        "accepts_coalition_app": "No"
+      },
+      "requirements": {
+        "gpa": "Required",
+        "rank": "Required",
+        "transcript": "Required",
+        "college_prep_coures": "Recommended",
+        "sat/act": "Considered but not required",
+        "recommendations": "Required"
+      }
+    }
+  },
+  "Union College (Nebraska)This college has been claimed by the college or a college representative.": {
+    "niche_report_card": {
+      "Academics": "B",
+      "Value": "B+",
+      "Diversity": "A",
+      "Campus": "B+",
+      "Athletics": "D",
+      "Party Scene": "C-",
+      "Professors": "B-",
+      "Location": "A-",
+      "Dorms": "B+",
+      "Campus Food": "B+",
+      "Student Life": "B",
+      "Safety": "B+"
+    },
+    "after_college": {
+      "median_earning_6_years": "$40,800",
+      "graduation_rate": "54%",
+      "employment_rate": "89%"
+    },
+    "students": {
+      "full_time": "707",
+      "part_time": "74",
+      "over_25": "8%",
+      "pell_grant": "37%",
+      "varsity_athletes": "5%"
+    },
+    "popular_majors": [
+      "Nursing",
+      "Business",
+      "Public Health",
+      "Elementary Education",
+      "Health Service Preparatory Studies",
+      "Social Work and Youth Services",
+      "Theological and Ministerial Studies",
+      "Liberal Arts and Humanities",
+      "Information Science",
+      "Biomedical Sciences and Molecular Medicine"
+    ],
+    "cost": {
+      "net_price": "$20,928",
+      "average_aid": "$12,973",
+      "percentage_aid": "100%"
+    },
+    "admissions": {
+      "statistics": {
+        "acceptance_rate": "60%",
+        "early_decision_acceptance_rate": "",
+        "total_applicants": "1,573",
+        "sat_range": "960-1150",
+        "sat_reading": "500-600",
+        "sat_math": "460-550",
+        "sat_submission_percentage": "22%",
+        "act_range": "19-26",
+        "act_english": "17-25",
+        "act_math": "19-27",
+        "act_writing": "",
+        "act_submission_percentage": "90%"
+      },
+      "deadlines": {
+        "application_deadline": "Rolling Admissions",
+        "early_decision_deadline": "",
+        "early_action_deadline": "",
+        "offers_early_decision": "",
+        "offers_early_action": "",
+        "application_fee": "$0",
+        "application_website": "ucollege.edu/apply",
+        "accepts_common_app": "",
+        "accepts_coalition_app": "No"
+      },
+      "requirements": {
+        "gpa": "Required",
+        "rank": "Recommended",
+        "transcript": "Required",
+        "college_prep_coures": "Recommended",
+        "sat/act": "Required",
+        "recommendations": "Required"
+      }
+    }
+  },
+  "North Park University": {
+    "niche_report_card": {
+      "Academics": "B",
+      "Value": "B+",
+      "Diversity": "A",
+      "Campus": "B",
+      "Athletics": "B-",
+      "Party Scene": "C+",
+      "Professors": "B-",
+      "Location": "A",
+      "Dorms": "B-",
+      "Campus Food": "C",
+      "Student Life": "B",
+      "Safety": "B-"
+    },
+    "after_college": {
+      "median_earning_6_years": "$43,700",
+      "graduation_rate": "59%",
+      "employment_rate": "93%"
+    },
+    "students": {
+      "full_time": "1,812",
+      "part_time": "217",
+      "over_25": "9%",
+      "pell_grant": "46%",
+      "varsity_athletes": "21%"
+    },
+    "popular_majors": [
+      "Business",
+      "Nursing",
+      "Psychology",
+      "Hospital Management",
+      "Biology",
+      "Physical Education Teaching and Coaching",
+      "Sociology",
+      "Communications",
+      "English",
+      "Criminal Justice and Safety Studies"
+    ],
+    "cost": {
+      "net_price": "$20,651",
+      "average_aid": "$15,332",
+      "percentage_aid": "99%"
+    },
+    "admissions": {
+      "statistics": {
+        "acceptance_rate": "54%",
+        "early_decision_acceptance_rate": "",
+        "total_applicants": "4,839",
+        "sat_range": "1000-1190",
+        "sat_reading": "490-600",
+        "sat_math": "510-590",
+        "sat_submission_percentage": "11%",
+        "act_range": "19-24",
+        "act_english": "18-24",
+        "act_math": "17-24",
+        "act_writing": "",
+        "act_submission_percentage": "87%"
+      },
+      "deadlines": {
+        "application_deadline": "",
+        "early_decision_deadline": "",
+        "early_action_deadline": "",
+        "offers_early_decision": "",
+        "offers_early_action": "",
+        "application_fee": "$0",
+        "application_website": "northpark.edu/admissions/undergraduate-admissions/apply",
+        "accepts_common_app": "",
+        "accepts_coalition_app": "No"
+      },
+      "requirements": {
+        "gpa": "Required",
+        "rank": "Recommended",
+        "transcript": "Considered but not required",
+        "college_prep_coures": "Recommended",
+        "sat/act": "Required",
+        "recommendations": "Required"
+      }
+    }
+  },
+  "Southern Utah UniversityThis college has been claimed by the college or a college representative.": {
+    "niche_report_card": {
+      "Academics": "B",
+      "Value": "B",
+      "Diversity": "A-",
+      "Campus": "A-",
+      "Athletics": "B+",
+      "Party Scene": "B-",
+      "Professors": "B",
+      "Location": "B-",
+      "Dorms": "B",
+      "Campus Food": "B+",
+      "Student Life": "B+",
+      "Safety": "B+"
+    },
+    "after_college": {
+      "median_earning_6_years": "$39,800",
+      "graduation_rate": "47%",
+      "employment_rate": "86%"
+    },
+    "students": {
+      "full_time": "6,279",
+      "part_time": "2,271",
+      "over_25": "12%",
+      "pell_grant": "32%",
+      "varsity_athletes": "6%"
+    },
+    "popular_majors": [
+      "Liberal Arts and Humanities",
+      "Education",
+      "Biology",
+      "Psychology",
+      "Nursing",
+      "Elementary Education",
+      "Accounting",
+      "Foods, Nutrition, and Wellness Studies",
+      "Communications",
+      "Police and Criminal Science"
+    ],
+    "cost": {
+      "net_price": "$14,451",
+      "average_aid": "$7,029",
+      "percentage_aid": "95%"
+    },
+    "admissions": {
+      "statistics": {
+        "acceptance_rate": "76%",
+        "early_decision_acceptance_rate": "",
+        "total_applicants": "11,693",
+        "sat_range": "1010-1220",
+        "sat_reading": "510-620",
+        "sat_math": "500-600",
+        "sat_submission_percentage": "9%",
+        "act_range": "20-27",
+        "act_english": "20-27",
+        "act_math": "19-26",
+        "act_writing": "7-8",
+        "act_submission_percentage": "93%"
+      },
+      "deadlines": {
+        "application_deadline": "Rolling Admissions",
+        "early_decision_deadline": "",
+        "early_action_deadline": "",
+        "offers_early_decision": "No",
+        "offers_early_action": "No",
+        "application_fee": "$50",
+        "application_website": "suu.edu/apply.html",
+        "accepts_common_app": "",
+        "accepts_coalition_app": "No"
+      },
+      "requirements": {
+        "gpa": "Required",
+        "rank": "Neither required nor recommended",
+        "transcript": "Required",
+        "college_prep_coures": "Neither required nor recommended",
+        "sat/act": "Required",
+        "recommendations": "Neither required nor recommended"
+      }
+    }
+  },
+  "Southern Illinois University EdwardsvilleThis college has been claimed by the college or a college representative.": {
+    "niche_report_card": {
+      "Academics": "B",
+      "Value": "B+",
+      "Diversity": "A-",
+      "Campus": "B+",
+      "Athletics": "B+",
+      "Party Scene": "B",
+      "Professors": "B",
+      "Location": "B+",
+      "Dorms": "B",
+      "Campus Food": "A-",
+      "Student Life": "B",
+      "Safety": "B"
+    },
+    "after_college": {
+      "median_earning_6_years": "$43,000",
+      "graduation_rate": "49%",
+      "employment_rate": "95%"
+    },
+    "students": {
+      "full_time": "9,550",
+      "part_time": "1,852",
+      "over_25": "8%",
+      "pell_grant": "34%",
+      "varsity_athletes": "2%"
+    },
+    "popular_majors": [
+      "Nursing",
+      "Business",
+      "Psychology",
+      "Biology",
+      "Criminal Justice and Safety Studies",
+      "Communications",
+      "Kinesiology and Exercise Science",
+      "Information Science",
+      "Accounting",
+      "Mechanical Engineering"
+    ],
+    "cost": {
+      "net_price": "$15,090",
+      "average_aid": "$6,756",
+      "percentage_aid": "93%"
+    },
+    "admissions": {
+      "statistics": {
+        "acceptance_rate": "90%",
+        "early_decision_acceptance_rate": "",
+        "total_applicants": "6,273",
+        "sat_range": "980-1220",
+        "sat_reading": "480-620",
+        "sat_math": "500-600",
+        "sat_submission_percentage": "3%",
+        "act_range": "20-26",
+        "act_english": "20-26",
+        "act_math": "18-26",
+        "act_writing": "6-8",
+        "act_submission_percentage": "98%"
+      },
+      "deadlines": {
+        "application_deadline": "May 1",
+        "early_decision_deadline": "December 1",
+        "early_action_deadline": "",
+        "offers_early_decision": "Yes",
+        "offers_early_action": "No",
+        "application_fee": "$40",
+        "application_website": "siue.edu/apply",
+        "accepts_common_app": "",
+        "accepts_coalition_app": "No"
+      },
+      "requirements": {
+        "gpa": "Required",
+        "rank": "Recommended",
+        "transcript": "Required",
+        "college_prep_coures": "Recommended",
+        "sat/act": "Required",
+        "recommendations": "Neither required nor recommended"
+      }
+    }
+  },
+  "University of South Alabama": {
+    "niche_report_card": {
+      "Academics": "B",
+      "Value": "B",
+      "Diversity": "A",
+      "Campus": "B+",
+      "Athletics": "A",
+      "Party Scene": "B+",
+      "Professors": "B",
+      "Location": "B",
+      "Dorms": "B",
+      "Campus Food": "B",
+      "Student Life": "B+",
+      "Safety": "C+"
+    },
+    "after_college": {
+      "median_earning_6_years": "$37,800",
+      "graduation_rate": "40%",
+      "employment_rate": "90%"
+    },
+    "students": {
+      "full_time": "9,090",
+      "part_time": "1,898",
+      "over_25": "11%",
+      "pell_grant": "37%",
+      "varsity_athletes": "4%"
+    },
+    "popular_majors": [
+      "Nursing",
+      "Health Service Preparatory Studies",
+      "Elementary Education",
+      "Liberal Arts and Humanities",
+      "Emergency Medical Technician (EMT Paramedic)",
+      "Biology",
+      "Communications",
+      "Physical Education Teaching and Coaching",
+      "Mechanical Engineering",
+      "Business"
+    ],
+    "cost": {
+      "net_price": "$12,968",
+      "average_aid": "$6,927",
+      "percentage_aid": "95%"
+    },
+    "admissions": {
+      "statistics": {
+        "acceptance_rate": "82%",
+        "early_decision_acceptance_rate": "",
+        "total_applicants": "5,898",
+        "sat_range": "1010-1200",
+        "sat_reading": "510-610",
+        "sat_math": "500-590",
+        "sat_submission_percentage": "7%",
+        "act_range": "20-26",
+        "act_english": "21-27",
+        "act_math": "18-25",
+        "act_writing": "6-8",
+        "act_submission_percentage": "94%"
+      },
+      "deadlines": {
+        "application_deadline": "July 15",
+        "early_decision_deadline": "",
+        "early_action_deadline": "",
+        "offers_early_decision": "No",
+        "offers_early_action": "No",
+        "application_fee": "$35",
+        "application_website": "southalabama.edu/departments/admissions/applytousa.html",
+        "accepts_common_app": "",
+        "accepts_coalition_app": "No"
+      },
+      "requirements": {
+        "gpa": "Required",
+        "rank": "Neither required nor recommended",
+        "transcript": "Required",
+        "college_prep_coures": "Neither required nor recommended",
+        "sat/act": "Required",
+        "recommendations": "Neither required nor recommended"
+      }
+    }
+  },
+  "Penn State Worthington Scranton": {
+    "niche_report_card": {
+      "Academics": "B-",
+      "Value": "A-",
+      "Diversity": "B",
+      "Campus": "A-",
+      "Athletics": "D+",
+      "Party Scene": "C+",
+      "Professors": "B",
+      "Location": "B+",
+      "Dorms": "NG",
+      "Campus Food": "NG",
+      "Student Life": "B+",
+      "Safety": "A"
+    },
+    "after_college": {
+      "median_earning_6_years": "$50,100",
+      "graduation_rate": "38%",
+      "employment_rate": "94%"
+    },
+    "students": {
+      "full_time": "904",
+      "part_time": "125",
+      "over_25": "10%",
+      "pell_grant": "53%",
+      "varsity_athletes": "11%"
+    },
+    "popular_majors": [
+      "Business",
+      "Nursing",
+      "Human Development",
+      "Information Science",
+      "Liberal Arts and Humanities",
+      "English",
+      "Corporate Communications",
+      "Natural Sciences",
+      "Logistics and Supply Chain Management",
+      "Psychology"
+    ],
+    "cost": {
+      "net_price": "$14,042",
+      "average_aid": "$8,629",
+      "percentage_aid": "93%"
+    },
+    "admissions": {
+      "statistics": {
+        "acceptance_rate": "78%",
+        "early_decision_acceptance_rate": "",
+        "total_applicants": "883",
+        "sat_range": "930-1140",
+        "sat_reading": "470-570",
+        "sat_math": "460-570",
+        "sat_submission_percentage": "83%",
+        "act_range": "17-25",
+        "act_english": "16-24",
+        "act_math": "18-24",
+        "act_writing": "5-8",
+        "act_submission_percentage": "5%"
+      },
+      "deadlines": {
+        "application_deadline": "",
+        "early_decision_deadline": "",
+        "early_action_deadline": "",
+        "offers_early_decision": "",
+        "offers_early_action": "",
+        "application_fee": "$65",
+        "application_website": "admissions.psu.edu/apply",
+        "accepts_common_app": "",
+        "accepts_coalition_app": "No"
+      },
+      "requirements": {
+        "gpa": "Required",
+        "rank": "Recommended",
+        "transcript": "Required",
+        "college_prep_coures": "Recommended",
+        "sat/act": "Required",
+        "recommendations": "Neither required nor recommended"
+      }
+    }
+  },
+  "Penn State Fayette - Eberly CampusThis college has been claimed by the college or a college representative.": {
+    "niche_report_card": {
+      "Academics": "B-",
+      "Value": "A-",
+      "Diversity": "B+",
+      "Campus": "B",
+      "Athletics": "C-",
+      "Party Scene": "NG",
+      "Professors": "B",
+      "Location": "B-",
+      "Dorms": "NG",
+      "Campus Food": "NG",
+      "Student Life": "B+",
+      "Safety": "NG"
+    },
+    "after_college": {
+      "median_earning_6_years": "$50,100",
+      "graduation_rate": "48%",
+      "employment_rate": "94%"
+    },
+    "students": {
+      "full_time": "589",
+      "part_time": "63",
+      "over_25": "8%",
+      "pell_grant": "45%",
+      "varsity_athletes": "15%"
+    },
+    "popular_majors": [
+      "Nursing",
+      "Business",
+      "Human Development",
+      "Physical Therapy Technician",
+      "Psychology",
+      "Criminal Justice and Safety Studies",
+      "Engineering",
+      "Electrical Engineering Technician",
+      "Information Science",
+      "Liberal Arts and Humanities"
+    ],
+    "cost": {
+      "net_price": "$14,009",
+      "average_aid": "$7,867",
+      "percentage_aid": "94%"
+    },
+    "admissions": {
+      "statistics": {
+        "acceptance_rate": "82%",
+        "early_decision_acceptance_rate": "",
+        "total_applicants": "728",
+        "sat_range": "930-1150",
+        "sat_reading": "470-580",
+        "sat_math": "460-570",
+        "sat_submission_percentage": "79%",
+        "act_range": "17-20",
+        "act_english": "14-20",
+        "act_math": "17-23",
+        "act_writing": "5-6",
+        "act_submission_percentage": "3%"
+      },
+      "deadlines": {
+        "application_deadline": "",
+        "early_decision_deadline": "",
+        "early_action_deadline": "",
+        "offers_early_decision": "",
+        "offers_early_action": "",
+        "application_fee": "$65",
+        "application_website": "admissions.psu.edu/apply",
+        "accepts_common_app": "",
+        "accepts_coalition_app": "No"
+      },
+      "requirements": {
+        "gpa": "Required",
+        "rank": "Recommended",
+        "transcript": "Required",
+        "college_prep_coures": "Recommended",
+        "sat/act": "Required",
+        "recommendations": "Neither required nor recommended"
+      }
+    }
+  },
+  "Middle Tennessee State University": {
+    "niche_report_card": {
+      "Academics": "B",
+      "Value": "B",
+      "Diversity": "A",
+      "Campus": "B+",
+      "Athletics": "A",
+      "Party Scene": "B+",
+      "Professors": "B",
+      "Location": "B-",
+      "Dorms": "C+",
+      "Campus Food": "B+",
+      "Student Life": "B+",
+      "Safety": "C+"
+    },
+    "after_college": {
+      "median_earning_6_years": "$38,700",
+      "graduation_rate": "44%",
+      "employment_rate": "93%"
+    },
+    "students": {
+      "full_time": "15,812",
+      "part_time": "3,711",
+      "over_25": "13%",
+      "pell_grant": "47%",
+      "varsity_athletes": "2%"
+    },
+    "popular_majors": [
+      "Liberal Arts and Humanities",
+      "Communications",
+      "Music Management",
+      "Business",
+      "Psychology",
+      "Kinesiology and Exercise Science",
+      "Nursing",
+      "Biology",
+      "Criminal Justice and Law Enforcement Administration",
+      "Education"
+    ],
+    "cost": {
+      "net_price": "$11,916",
+      "average_aid": "$8,607",
+      "percentage_aid": "95%"
+    },
+    "admissions": {
+      "statistics": {
+        "acceptance_rate": "59%",
+        "early_decision_acceptance_rate": "",
+        "total_applicants": "9,938",
+        "sat_range": "990-1210",
+        "sat_reading": "520-620",
+        "sat_math": "470-590",
+        "sat_submission_percentage": "4%",
+        "act_range": "20-25",
+        "act_english": "19-26",
+        "act_math": "18-25",
+        "act_writing": "",
+        "act_submission_percentage": "90%"
+      },
+      "deadlines": {
+        "application_deadline": "Rolling Admissions",
+        "early_decision_deadline": "",
+        "early_action_deadline": "",
+        "offers_early_decision": "No",
+        "offers_early_action": "No",
+        "application_fee": "$25",
+        "application_website": "mtsu.edu/applynow",
+        "accepts_common_app": "",
+        "accepts_coalition_app": "No"
+      },
+      "requirements": {
+        "gpa": "Required",
+        "rank": "Neither required nor recommended",
+        "transcript": "Required",
+        "college_prep_coures": "Required",
+        "sat/act": "Required",
+        "recommendations": "Neither required nor recommended"
+      }
+    }
+  },
+  "Central Washington University": {
+    "niche_report_card": {
+      "Academics": "B",
+      "Value": "A-",
+      "Diversity": "A-",
+      "Campus": "B",
+      "Athletics": "B",
+      "Party Scene": "B-",
+      "Professors": "B",
+      "Location": "B-",
+      "Dorms": "B-",
+      "Campus Food": "B",
+      "Student Life": "B",
+      "Safety": "B"
+    },
+    "after_college": {
+      "median_earning_6_years": "$46,500",
+      "graduation_rate": "52%",
+      "employment_rate": "93%"
+    },
+    "students": {
+      "full_time": "10,446",
+      "part_time": "1,634",
+      "over_25": "15%",
+      "pell_grant": "36%",
+      "varsity_athletes": "4%"
+    },
+    "popular_majors": [
+      "Business",
+      "Criminal Justice and Safety Studies",
+      "Psychology",
+      "Elementary Education",
+      "Social Science Research Methods",
+      "Accounting",
+      "Logistics and Supply Chain Management",
+      "Marketing",
+      "Finance",
+      "Exercise Physiology"
+    ],
+    "cost": {
+      "net_price": "$14,124",
+      "average_aid": "$7,096",
+      "percentage_aid": "88%"
+    },
+    "admissions": {
+      "statistics": {
+        "acceptance_rate": "86%",
+        "early_decision_acceptance_rate": "",
+        "total_applicants": "8,597",
+        "sat_range": "910-1100",
+        "sat_reading": "430-530",
+        "sat_math": "480-570",
+        "sat_submission_percentage": "97%",
+        "act_range": "17-24",
+        "act_english": "15-23",
+        "act_math": "17-24",
+        "act_writing": "5-9",
+        "act_submission_percentage": "20%"
+      },
+      "deadlines": {
+        "application_deadline": "Rolling Admissions",
+        "early_decision_deadline": "",
+        "early_action_deadline": "",
+        "offers_early_decision": "No",
+        "offers_early_action": "No",
+        "application_fee": "$50",
+        "application_website": "cwu.edu/admissions/apply",
+        "accepts_common_app": "",
+        "accepts_coalition_app": "No"
+      },
+      "requirements": {
+        "gpa": "Required",
+        "rank": "Neither required nor recommended",
+        "transcript": "Recommended",
+        "college_prep_coures": "Required",
+        "sat/act": "Required",
+        "recommendations": "Recommended"
+      }
+    }
+  },
+  "College for Creative StudiesThis college has been claimed by the college or a college representative.": {
+    "niche_report_card": {
+      "Academics": "B",
+      "Value": "B",
+      "Diversity": "A",
+      "Campus": "C+",
+      "Athletics": "NG",
+      "Party Scene": "B-",
+      "Professors": "B",
+      "Location": "B",
+      "Dorms": "B+",
+      "Campus Food": "C",
+      "Student Life": "B",
+      "Safety": "A"
+    },
+    "after_college": {
+      "median_earning_6_years": "$44,100",
+      "graduation_rate": "60%",
+      "employment_rate": "91%"
+    },
+    "students": {
+      "full_time": "1,110",
+      "part_time": "281",
+      "over_25": "9%",
+      "pell_grant": "31%",
+      "varsity_athletes": ""
+    },
+    "popular_majors": [
+      "Industrial and Product Design",
+      "Animation, Video Graphics and Special Effects",
+      "Illustration",
+      "Commercial and Advertising Art",
+      "Graphic Design",
+      "Photography",
+      "Arts",
+      "Fine Arts",
+      "Art Teacher Education",
+      "Interior Design"
+    ],
+    "cost": {
+      "net_price": "$36,870",
+      "average_aid": "$17,436",
+      "percentage_aid": "98%"
+    },
+    "admissions": {
+      "statistics": {
+        "acceptance_rate": "49%",
+        "early_decision_acceptance_rate": "",
+        "total_applicants": "1,586",
+        "sat_range": "970-1200",
+        "sat_reading": "500-620",
+        "sat_math": "470-580",
+        "sat_submission_percentage": "36%",
+        "act_range": "21-27",
+        "act_english": "22-28",
+        "act_math": "19-26",
+        "act_writing": "",
+        "act_submission_percentage": "76%"
+      },
+      "deadlines": {
+        "application_deadline": "Rolling Admissions",
+        "early_decision_deadline": "",
+        "early_action_deadline": "",
+        "offers_early_decision": "No",
+        "offers_early_action": "",
+        "application_fee": "$0",
+        "application_website": "collegeforcreativestudies.edu/apply",
+        "accepts_common_app": "",
+        "accepts_coalition_app": "No"
+      },
+      "requirements": {
+        "gpa": "Required",
+        "rank": "Neither required nor recommended",
+        "transcript": "Required",
+        "college_prep_coures": "Recommended",
+        "sat/act": "Required",
+        "recommendations": "Recommended"
+      }
+    }
+  },
+  "Hampshire College": {
+    "niche_report_card": {
+      "Academics": "A-",
+      "Value": "B-",
+      "Diversity": "A",
+      "Campus": "C-",
+      "Athletics": "D-",
+      "Party Scene": "B",
+      "Professors": "A-",
+      "Location": "B",
+      "Dorms": "C",
+      "Campus Food": "C",
+      "Student Life": "C+",
+      "Safety": "C-"
+    },
+    "after_college": {
+      "median_earning_6_years": "$34,500",
+      "graduation_rate": "62%",
+      "employment_rate": "86%"
+    },
+    "students": {
+      "full_time": "1,321",
+      "part_time": "0",
+      "over_25": "3%",
+      "pell_grant": "27%",
+      "varsity_athletes": "7%"
+    },
+    "popular_majors": [
+      "Cinematography and Video Production",
+      "Fine Arts",
+      "Creative Writing",
+      "Psychology",
+      "Biology",
+      "Drama and Theatre Production",
+      "Web Page and Digital Design",
+      "Environmental Science",
+      "Education",
+      "Music History and Literature"
+    ],
+    "cost": {
+      "net_price": "$34,521",
+      "average_aid": "$30,632",
+      "percentage_aid": "94%"
+    },
+    "admissions": {
+      "statistics": {
+        "acceptance_rate": "63%",
+        "early_decision_acceptance_rate": "78%",
+        "total_applicants": "2,305",
+        "sat_range": "",
+        "sat_reading": "",
+        "sat_math": "",
+        "sat_submission_percentage": "",
+        "act_range": "",
+        "act_english": "",
+        "act_math": "",
+        "act_writing": "",
+        "act_submission_percentage": ""
+      },
+      "deadlines": {
+        "application_deadline": "January 15",
+        "early_decision_deadline": "November 15",
+        "early_action_deadline": "December 1",
+        "offers_early_decision": "Yes",
+        "offers_early_action": "Yes",
+        "application_fee": "$0",
+        "application_website": "hampshire.edu/admissions/apply-to-hampshire",
+        "accepts_common_app": "Yes",
+        "accepts_coalition_app": "No"
+      },
+      "requirements": {
+        "gpa": "Recommended",
+        "rank": "Recommended",
+        "transcript": "Required",
+        "college_prep_coures": "Recommended",
+        "sat/act": "Neither required nor recommended",
+        "recommendations": "Required"
+      }
+    }
+  },
+  "Trinity Christian CollegeThis college has been claimed by the college or a college representative.": {
+    "niche_report_card": {
+      "Academics": "B-",
+      "Value": "A-",
+      "Diversity": "A-",
+      "Campus": "B",
+      "Athletics": "B-",
+      "Party Scene": "C",
+      "Professors": "B-",
+      "Location": "B+",
+      "Dorms": "B-",
+      "Campus Food": "B-",
+      "Student Life": "B+",
+      "Safety": "A"
+    },
+    "after_college": {
+      "median_earning_6_years": "$42,200",
+      "graduation_rate": "62%",
+      "employment_rate": "94%"
+    },
+    "students": {
+      "full_time": "1,000",
+      "part_time": "200",
+      "over_25": "26%",
+      "pell_grant": "34%",
+      "varsity_athletes": "19%"
+    },
+    "popular_majors": [
+      "Elementary Education",
+      "Nursing",
+      "Psychology",
+      "Social Work and Youth Services",
+      "Special Education and Teaching",
+      "Business",
+      "Kinesiology and Exercise Science",
+      "Education",
+      "Marketing",
+      "Communications"
+    ],
+    "cost": {
+      "net_price": "$21,772",
+      "average_aid": "$17,954",
+      "percentage_aid": "100%"
+    },
+    "admissions": {
+      "statistics": {
+        "acceptance_rate": "88%",
+        "early_decision_acceptance_rate": "",
+        "total_applicants": "861",
+        "sat_range": "878-1153",
+        "sat_reading": "430-595",
+        "sat_math": "448-558",
+        "sat_submission_percentage": "9%",
+        "act_range": "21-27",
+        "act_english": "21-28",
+        "act_math": "18-25",
+        "act_writing": "",
+        "act_submission_percentage": "91%"
+      },
+      "deadlines": {
+        "application_deadline": "Rolling Admissions",
+        "early_decision_deadline": "",
+        "early_action_deadline": "",
+        "offers_early_decision": "",
+        "offers_early_action": "",
+        "application_fee": "$0",
+        "application_website": "apply.trnty.edu/apply",
+        "accepts_common_app": "Yes",
+        "accepts_coalition_app": "No"
+      },
+      "requirements": {
+        "gpa": "Required",
+        "rank": "Neither required nor recommended",
+        "transcript": "Required",
+        "college_prep_coures": "Neither required nor recommended",
+        "sat/act": "Required",
+        "recommendations": "Neither required nor recommended"
+      }
+    }
+  },
+  "Texas A&M University - CommerceThis college has been claimed by the college or a college representative.": {
+    "niche_report_card": {
+      "Academics": "B",
+      "Value": "B",
+      "Diversity": "A-",
+      "Campus": "B",
+      "Athletics": "A-",
+      "Party Scene": "B+",
+      "Professors": "B+",
+      "Location": "C",
+      "Dorms": "B",
+      "Campus Food": "B+",
+      "Student Life": "B",
+      "Safety": "B-"
+    },
+    "after_college": {
+      "median_earning_6_years": "$39,300",
+      "graduation_rate": "42%",
+      "employment_rate": "92%"
+    },
+    "students": {
+      "full_time": "6,068",
+      "part_time": "2,426",
+      "over_25": "22%",
+      "pell_grant": "55%",
+      "varsity_athletes": "6%"
+    },
+    "popular_majors": [
+      "Liberal Arts and Humanities",
+      "Business",
+      "Psychology",
+      "Criminal Justice and Safety Studies",
+      "Kinesiology and Exercise Science",
+      "Social Work and Youth Services",
+      "Accounting",
+      "Information Science",
+      "Sociology",
+      "Finance"
+    ],
+    "cost": {
+      "net_price": "$11,396",
+      "average_aid": "$9,529",
+      "percentage_aid": "93%"
+    },
+    "admissions": {
+      "statistics": {
+        "acceptance_rate": "35%",
+        "early_decision_acceptance_rate": "",
+        "total_applicants": "9,520",
+        "sat_range": "960-1150",
+        "sat_reading": "480-580",
+        "sat_math": "480-570",
+        "sat_submission_percentage": "64%",
+        "act_range": "18-23",
+        "act_english": "16-23",
+        "act_math": "17-23",
+        "act_writing": "",
+        "act_submission_percentage": "57%"
+      },
+      "deadlines": {
+        "application_deadline": "March 1",
+        "early_decision_deadline": "",
+        "early_action_deadline": "",
+        "offers_early_decision": "No",
+        "offers_early_action": "No",
+        "application_fee": "$0",
+        "application_website": "applytexas.org/adappc/gen/c_start.wbx",
+        "accepts_common_app": "",
+        "accepts_coalition_app": "No"
+      },
+      "requirements": {
+        "gpa": "Required",
+        "rank": "Required",
+        "transcript": "Required",
+        "college_prep_coures": "Recommended",
+        "sat/act": "Required",
+        "recommendations": "Recommended"
+      }
+    }
+  },
+  "Nicholls State University": {
+    "niche_report_card": {
+      "Academics": "B",
+      "Value": "B",
+      "Diversity": "B+",
+      "Campus": "B",
+      "Athletics": "B+",
+      "Party Scene": "B",
+      "Professors": "B",
+      "Location": "B-",
+      "Dorms": "B",
+      "Campus Food": "A-",
+      "Student Life": "B+",
+      "Safety": "B+"
+    },
+    "after_college": {
+      "median_earning_6_years": "$37,500",
+      "graduation_rate": "47%",
+      "employment_rate": "91%"
+    },
+    "students": {
+      "full_time": "4,662",
+      "part_time": "1,023",
+      "over_25": "12%",
+      "pell_grant": "46%",
+      "varsity_athletes": "6%"
+    },
+    "popular_majors": [
+      "Liberal Arts and Humanities",
+      "Engineering Technician",
+      "Nursing",
+      "Business",
+      "Culinary Arts and Food Service",
+      "Accounting",
+      "Family Studies and Consumer Sciences",
+      "Biology",
+      "Psychology",
+      "Child Care Provider"
+    ],
+    "cost": {
+      "net_price": "$11,896",
+      "average_aid": "$6,735",
+      "percentage_aid": "95%"
+    },
+    "admissions": {
+      "statistics": {
+        "acceptance_rate": "94%",
+        "early_decision_acceptance_rate": "",
+        "total_applicants": "2,571",
+        "sat_range": "980-1180",
+        "sat_reading": "490-590",
+        "sat_math": "490-590",
+        "sat_submission_percentage": "4%",
+        "act_range": "20-24",
+        "act_english": "18-24",
+        "act_math": "20-26",
+        "act_writing": "",
+        "act_submission_percentage": "97%"
+      },
+      "deadlines": {
+        "application_deadline": "Rolling Admissions",
+        "early_decision_deadline": "",
+        "early_action_deadline": "",
+        "offers_early_decision": "No",
+        "offers_early_action": "No",
+        "application_fee": "$20",
+        "application_website": "nicholls.edu/apply",
+        "accepts_common_app": "",
+        "accepts_coalition_app": "No"
+      },
+      "requirements": {
+        "gpa": "Required",
+        "rank": "Required",
+        "transcript": "Required",
+        "college_prep_coures": "Required",
+        "sat/act": "Required",
+        "recommendations": "Neither required nor recommended"
+      }
+    }
+  },
+  "SUNY Fredonia": {
+    "niche_report_card": {
+      "Academics": "B",
+      "Value": "B",
+      "Diversity": "B+",
+      "Campus": "B",
+      "Athletics": "B-",
+      "Party Scene": "A-",
+      "Professors": "B+",
+      "Location": "C+",
+      "Dorms": "B-",
+      "Campus Food": "C",
+      "Student Life": "B",
+      "Safety": "B-"
+    },
+    "after_college": {
+      "median_earning_6_years": "$41,700",
+      "graduation_rate": "63%",
+      "employment_rate": "96%"
+    },
+    "students": {
+      "full_time": "4,281",
+      "part_time": "112",
+      "over_25": "3%",
+      "pell_grant": "43%",
+      "varsity_athletes": "7%"
+    },
+    "popular_majors": [
+      "Business",
+      "Public Relations",
+      "Liberal Arts and Humanities",
+      "Psychology",
+      "Social Work and Youth Services",
+      "Radio and Television",
+      "Criminal Justice and Safety Studies",
+      "Music Teacher Education",
+      "Elementary Education",
+      "Information Science"
+    ],
+    "cost": {
+      "net_price": "$15,704",
+      "average_aid": "$7,037",
+      "percentage_aid": "96%"
+    },
+    "admissions": {
+      "statistics": {
+        "acceptance_rate": "65%",
+        "early_decision_acceptance_rate": "",
+        "total_applicants": "5,474",
+        "sat_range": "980-1190",
+        "sat_reading": "500-600",
+        "sat_math": "480-590",
+        "sat_submission_percentage": "85%",
+        "act_range": "21-26",
+        "act_english": "",
+        "act_math": "",
+        "act_writing": "",
+        "act_submission_percentage": "25%"
+      },
+      "deadlines": {
+        "application_deadline": "",
+        "early_decision_deadline": "",
+        "early_action_deadline": "",
+        "offers_early_decision": "",
+        "offers_early_action": "",
+        "application_fee": "$50",
+        "application_website": "fredonia.edu/admissions/applysuny.asp",
+        "accepts_common_app": "Yes",
+        "accepts_coalition_app": "No"
+      },
+      "requirements": {
+        "gpa": "Required",
+        "rank": "Recommended",
+        "transcript": "Required",
+        "college_prep_coures": "Required",
+        "sat/act": "Required",
+        "recommendations": "Required"
+      }
+    }
+  },
+  "Southern New Hampshire UniversityThis college has been claimed by the college or a college representative.": {
+    "niche_report_card": {
+      "Academics": "B-",
+      "Value": "B-",
+      "Diversity": "A",
+      "Campus": "A",
+      "Athletics": "B+",
+      "Party Scene": "B",
+      "Professors": "B-",
+      "Location": "B+",
+      "Dorms": "NG",
+      "Campus Food": "A",
+      "Student Life": "A",
+      "Safety": "A-"
+    },
+    "after_college": {
+      "median_earning_6_years": "$45,400",
+      "graduation_rate": "49%",
+      "employment_rate": "91%"
+    },
+    "students": {
+      "full_time": "19,935",
+      "part_time": "50,726",
+      "over_25": "66%",
+      "pell_grant": "46%",
+      "varsity_athletes": "2%"
+    },
+    "popular_majors": [
+      "Business",
+      "Liberal Arts and Humanities",
+      "Psychology",
+      "Nursing",
+      "Accounting",
+      "Information Science",
+      "Criminal Justice and Corrections",
+      "Creative Writing",
+      "Healthcare Management",
+      "Corporate Communications"
+    ],
+    "cost": {
+      "net_price": "$34,984",
+      "average_aid": "$9,430",
+      "percentage_aid": "80%"
+    },
+    "admissions": {
+      "statistics": {
+        "acceptance_rate": "78%",
+        "early_decision_acceptance_rate": "",
+        "total_applicants": "17,086",
+        "sat_range": "870-1060",
+        "sat_reading": "440-540",
+        "sat_math": "450-560",
+        "sat_submission_percentage": "53%",
+        "act_range": "",
+        "act_english": "",
+        "act_math": "",
+        "act_writing": "",
+        "act_submission_percentage": ""
+      },
+      "deadlines": {
+        "application_deadline": "Rolling Admissions",
+        "early_decision_deadline": "",
+        "early_action_deadline": "November 15",
+        "offers_early_decision": "No",
+        "offers_early_action": "Yes",
+        "application_fee": "$40",
+        "application_website": "degrees.snhu.edu?utm_source=niche&utm_medium=ppl&utm_campaign=pros_linkout&snhu_segment=ol",
+        "accepts_common_app": "Yes",
+        "accepts_coalition_app": "No"
+      },
+      "requirements": {
+        "gpa": "Required",
+        "rank": "Neither required nor recommended",
+        "transcript": "Required",
+        "college_prep_coures": "Required",
+        "sat/act": "Neither required nor recommended",
+        "recommendations": "Required"
+      }
+    }
+  },
+  "Penn State Lehigh Valley": {
+    "niche_report_card": {
+      "Academics": "B-",
+      "Value": "A",
+      "Diversity": "B+",
+      "Campus": "B+",
+      "Athletics": "D+",
+      "Party Scene": "C",
+      "Professors": "B-",
+      "Location": "B",
+      "Dorms": "NG",
+      "Campus Food": "NG",
+      "Student Life": "B",
+      "Safety": "A+"
+    },
+    "after_college": {
+      "median_earning_6_years": "$50,100",
+      "graduation_rate": "55%",
+      "employment_rate": "94%"
+    },
+    "students": {
+      "full_time": "739",
+      "part_time": "161",
+      "over_25": "9%",
+      "pell_grant": "42%",
+      "varsity_athletes": "5%"
+    },
+    "popular_majors": [
+      "Business",
+      "Psychology",
+      "Corporate Communications",
+      "Rehabilitation and Therapy",
+      "Information Science",
+      "Education",
+      "Healthcare Management",
+      "Biology",
+      "Computer and Information Systems Security",
+      "E-Commerce"
+    ],
+    "cost": {
+      "net_price": "$14,383",
+      "average_aid": "$8,148",
+      "percentage_aid": "90%"
+    },
+    "admissions": {
+      "statistics": {
+        "acceptance_rate": "85%",
+        "early_decision_acceptance_rate": "",
+        "total_applicants": "1,262",
+        "sat_range": "980-1220",
+        "sat_reading": "490-600",
+        "sat_math": "490-620",
+        "sat_submission_percentage": "87%",
+        "act_range": "21-27",
+        "act_english": "19-25",
+        "act_math": "24-28",
+        "act_writing": "6-8",
+        "act_submission_percentage": "6%"
+      },
+      "deadlines": {
+        "application_deadline": "",
+        "early_decision_deadline": "",
+        "early_action_deadline": "",
+        "offers_early_decision": "",
+        "offers_early_action": "",
+        "application_fee": "$65",
+        "application_website": "admissions.psu.edu/apply",
+        "accepts_common_app": "",
+        "accepts_coalition_app": "No"
+      },
+      "requirements": {
+        "gpa": "Required",
+        "rank": "Recommended",
+        "transcript": "Required",
+        "college_prep_coures": "Recommended",
+        "sat/act": "Required",
+        "recommendations": "Neither required nor recommended"
+      }
+    }
+  },
+  "Saint Anselm CollegeThis college has been claimed by the college or a college representative.": {
+    "niche_report_card": {
+      "Academics": "B-",
+      "Value": "A",
+      "Diversity": "B",
+      "Campus": "B",
+      "Athletics": "B",
+      "Party Scene": "B-",
+      "Professors": "B-",
+      "Location": "C",
+      "Dorms": "B-",
+      "Campus Food": "A",
+      "Student Life": "B",
+      "Safety": "B-"
+    },
+    "after_college": {
+      "median_earning_6_years": "$58,300",
+      "graduation_rate": "80%",
+      "employment_rate": "98%"
+    },
+    "students": {
+      "full_time": "1,926",
+      "part_time": "38",
+      "over_25": "0%",
+      "pell_grant": "16%",
+      "varsity_athletes": "23%"
+    },
+    "popular_majors": [
+      "Nursing",
+      "Business",
+      "Criminology",
+      "Finance",
+      "Communications",
+      "Political Science and Government",
+      "Elementary Education",
+      "Psychology",
+      "Natural Sciences",
+      "English"
+    ],
+    "cost": {
+      "net_price": "$31,492",
+      "average_aid": "$23,338",
+      "percentage_aid": "99%"
+    },
+    "admissions": {
+      "statistics": {
+        "acceptance_rate": "76%",
+        "early_decision_acceptance_rate": "",
+        "total_applicants": "3,892",
+        "sat_range": "1140-1300",
+        "sat_reading": "580-650",
+        "sat_math": "560-650",
+        "sat_submission_percentage": "57%",
+        "act_range": "24-28",
+        "act_english": "23-30",
+        "act_math": "24-28",
+        "act_writing": "",
+        "act_submission_percentage": "18%"
+      },
+      "deadlines": {
+        "application_deadline": "February 1",
+        "early_decision_deadline": "December 1",
+        "early_action_deadline": "November 15",
+        "offers_early_decision": "Yes",
+        "offers_early_action": "Yes",
+        "application_fee": "$50",
+        "application_website": "apply.commonapp.org/login?ma=220",
+        "accepts_common_app": "Yes",
+        "accepts_coalition_app": "No"
+      },
+      "requirements": {
+        "gpa": "Required",
+        "rank": "Neither required nor recommended",
+        "transcript": "Required",
+        "college_prep_coures": "Required",
+        "sat/act": "Considered but not required",
+        "recommendations": "Required"
+      }
+    }
+  },
+  "University of Tennessee - Chattanooga": {
+    "niche_report_card": {
+      "Academics": "B",
+      "Value": "B+",
+      "Diversity": "B+",
+      "Campus": "A",
+      "Athletics": "B+",
+      "Party Scene": "B+",
+      "Professors": "B",
+      "Location": "B+",
+      "Dorms": "A-",
+      "Campus Food": "A-",
+      "Student Life": "B+",
+      "Safety": "C+"
+    },
+    "after_college": {
+      "median_earning_6_years": "$38,100",
+      "graduation_rate": "45%",
+      "employment_rate": "93%"
+    },
+    "students": {
+      "full_time": "8,962",
+      "part_time": "1,214",
+      "over_25": "7%",
+      "pell_grant": "31%",
+      "varsity_athletes": "3%"
+    },
+    "popular_majors": [
+      "Business",
+      "Kinesiology and Exercise Science",
+      "Psychology",
+      "Biology",
+      "Nursing",
+      "Early Childhood Education",
+      "Communications",
+      "Criminal Justice and Law Enforcement Administration",
+      "Mechanical Engineering",
+      "Engineering"
+    ],
+    "cost": {
+      "net_price": "$14,706",
+      "average_aid": "$7,299",
+      "percentage_aid": "95%"
+    },
+    "admissions": {
+      "statistics": {
+        "acceptance_rate": "83%",
+        "early_decision_acceptance_rate": "",
+        "total_applicants": "7,235",
+        "sat_range": "1040-1240",
+        "sat_reading": "530-630",
+        "sat_math": "510-610",
+        "sat_submission_percentage": "5%",
+        "act_range": "21-26",
+        "act_english": "20-27",
+        "act_math": "18-25",
+        "act_writing": "",
+        "act_submission_percentage": "97%"
+      },
+      "deadlines": {
+        "application_deadline": "May 1",
+        "early_decision_deadline": "",
+        "early_action_deadline": "",
+        "offers_early_decision": "No",
+        "offers_early_action": "No",
+        "application_fee": "$30",
+        "application_website": "ssb.utc.edu/cbanpr/bwskalog.p_disploginnon",
+        "accepts_common_app": "",
+        "accepts_coalition_app": "No"
+      },
+      "requirements": {
+        "gpa": "Required",
+        "rank": "Neither required nor recommended",
+        "transcript": "Required",
+        "college_prep_coures": "Recommended",
+        "sat/act": "Required",
+        "recommendations": "Neither required nor recommended"
+      }
+    }
+  }
+}
